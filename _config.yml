@@ -184,7 +184,7 @@ collections:
   software:
     output: true
     permalink: /:collection/:path/
-  projects:
+  talks:
     output: true
     permalink: /:collection/:path/
 
