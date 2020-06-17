@@ -1,5 +1,5 @@
 # main links links
-# the alignment is very sensitive!!!!
+# the format alignment is very sensitive!!!!
 main:
   - title: "Projects"
     url: /projects/
@@ -10,18 +10,20 @@ main:
 #  - title: "Talks"
 #    url: /talks/
 # replace talks with projects
+  - title: "Sotware"
+    url: /software/
 
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+ # - title: "Portfolio"
+ #   url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+ # - title: "Blog Posts"
+ #   url: /year-archive/
     
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+ # - title: "Guide"
+ #   url: /markdown/
