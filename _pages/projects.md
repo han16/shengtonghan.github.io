@@ -9,7 +9,7 @@ author_profile: true
 
 
 <p align="center">
-  <img src="https://han16.github.io/shengtonghan.github.io/images/Picture1.jpg?raw=true" alt="Photo" style="width: 350px;"/> 
+  <img src="https://han16.github.io/shengtonghan.github.io/images/dynamic-epigenetic.png?raw=true" alt="Photo" style="width: 250px;"/> 
 </p>
 
 
