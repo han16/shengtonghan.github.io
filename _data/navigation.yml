@@ -10,7 +10,7 @@ main:
 #  - title: "Talks"
 #    url: /talks/
 # replace talks with projects
-  - title: "Sotware"
+  - title: "Software"
     url: /software/
 
   - title: "Teaching"
