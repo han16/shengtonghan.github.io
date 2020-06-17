@@ -187,6 +187,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
+  openings:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
