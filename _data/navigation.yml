@@ -1,4 +1,5 @@
 # main links links
+# the alignment is very sensitive!!!!
 main:
   - title: "Projects"
     url: /projects/
@@ -8,6 +9,7 @@ main:
 
 #  - title: "Talks"
 #    url: /talks/
+# replace talks with projects
 
   - title: "Teaching"
     url: /teaching/    
