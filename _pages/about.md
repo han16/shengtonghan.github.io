@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
- About me 
-============================================================================================================
+##  About me 
+
 <span style="font-size:0.9em;">  Shengtong is currently a Visiting Assistant Professor in Biostatistics in [Joseph J. Zilber School of Public Health](https://uwm.edu/publichealth/), University of Wisconsin, Milwaukee, WI. Prior to this position, he was a postdoc in [School of Public Health](https://www.memphis.edu/sph/), University of Memphis, Memphis and [Dr. Xin He's lab](http://xinhelab.org) at Department of Human Genetics, University of Chicago , Chicago. Shengtong earned his Ph.D. degree in Statistics at the [Department of Statistics](https://www.sta.cuhk.edu.hk/default.aspx), the Chinese University of Hong Kong, Hong Kong.</span>
 
 
