@@ -14,13 +14,13 @@ Shengtong is currently a Visiting Assistant Professor in Biostatistics in [Josep
 
 
 
-# News 
+### News 
 
 
 
 
-Contact
-------
+#### Contact
+
 1240 North 10th street, Room 309<br> 
 Joseph J. Zilber School of Public Health<br>
 University of Wisconsin, Milwaukee<br>
