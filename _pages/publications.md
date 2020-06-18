@@ -8,7 +8,7 @@ author_profile: true
 
 <br>
 <span style="font-size:0.9em;">
-<b>[A Bayesian method for rare variant analysis using functional annotations and its application to Autism] (http://han16.github.io/shengtonghan.github.io/publications/MIRAGE).  [[bioRxiv]](https://www.biorxiv.org/content/10.1101/828061v1.full.pdf)[[R-package]](https://xinhe-lab.github.io/mirage/)</b> <br> </span>
+<b>[A Bayesian method for rare variant analysis using functional annotations and its application to Autism] (http://han16.github.io/shengtonghan.github.io/publications/MIRAGE). </b>  [[bioRxiv]](https://www.biorxiv.org/content/10.1101/828061v1.full.pdf)[[R-package]](https://xinhe-lab.github.io/mirage/) <br> </span>
 <span style="font-size:0.7em;">
  <b>Shengtong Han</b>, Nicholas Knoblauch, Gao Wang, Siming Zhao, Yuwen Liu, Yubin Xie, Wenhui Sheng, Hoang T Nguyen, Xin He.  </span>
  
