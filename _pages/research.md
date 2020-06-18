@@ -31,7 +31,7 @@ Trained as a statistician, I have long standing interest in statistical methodol
 ## Statistical (epi)genetics and genomics 
 
 <p align="center">
-  <img src="https://han16.github.io/shengtonghan.github.io/images/genetics.png?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://han16.github.io/shengtonghan.github.io/images/genetics.png?raw=true" alt="Photo" style="width: 350px;"/> 
 </p>
 
 
