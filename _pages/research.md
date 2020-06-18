@@ -12,7 +12,7 @@ Trained as a statistician, I have long standing interest in statistical methodol
 
 
 <p align="center">
-  <img src="https://han16.github.io/shengtonghan.github.io/images/dynamic-epigenetic.png?raw=true" alt="Photo" style="width: 250px;"/> 
+  <img src="https://han16.github.io/shengtonghan.github.io/images/network.png?raw=true" alt="Photo" style="width: 250px;"/> 
 </p>
 
 
