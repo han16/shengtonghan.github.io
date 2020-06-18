@@ -2,10 +2,9 @@
 title: "A Bayesian method for rare variant analysis using functional annotations and its application to Autism"
 collection: publications
 permalink: /publications/MIRAGE
-[[PDF]]: 'https://www.biorxiv.org/content/10.1101/828061v1.full.pdf'
 citation: '<b>Shengtong Han</b>, Nicholas Knoblauch, Gao Wang, Siming Zhao, Yuwen Liu, Yubin Xie, Wenhui Sheng, Hoang T. Nguyen, Xin He'
 ---
-
+[[PDF]](https://www.biorxiv.org/content/10.1101/828061v1.full.pdf)
 
 ## Abstract
 
