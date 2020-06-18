@@ -16,6 +16,7 @@ redirect_from:
 
  News 
 ======
+This is the front page of a generic Github pages website that uses the [academicpages template]
 
 
 
