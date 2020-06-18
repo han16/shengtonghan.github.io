@@ -19,6 +19,8 @@ author_profile: true
 
 ## Published 
 
+\+: co-first authors; \*: corresponding author
+
 <br>
 <span style="font-size:0.9em;"> 
 <b> Jump-seq: genome-wide capture and amplification of 5hmC sites </b> <br></span> 
