@@ -19,7 +19,7 @@ author_profile: true
 
 ## Published 
 
-\+: co-first authors; \*: corresponding author
+\+ co-first authors; \* corresponding author
 
 <br>
 <span style="font-size:0.9em;"> 
