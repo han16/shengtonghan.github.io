@@ -49,5 +49,5 @@ Trained as a statistician, I have long standing interest in statistical methodol
 ## Computational Biology and Bioinformatics
 
 <p align="center">
-  <img src="https://han16.github.io/shengtonghan.github.io/images/genetics.png?raw=true" alt="Photo" style="width: 350px;"/> 
+  <img src="https://han16.github.io/shengtonghan.github.io/images/bioinformatics.png?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
