@@ -22,8 +22,8 @@ redirect_from:
 
 ### Contact
 
-1240 North 10th street, Room 309<br> 
+<span style="font-size:0.8em;"> 1240 North 10th street, Room 309<br> 
 Joseph J. Zilber School of Public Health<br>
 University of Wisconsin, Milwaukee<br>
 Milwaukee, WI, 53205<br>
-Email: shengtonghan@gmail.com
+Email: shengtonghan@gmail.com</span>
