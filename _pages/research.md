@@ -28,7 +28,12 @@ Trained as a statistician, I have long standing interest in statistical methodol
 3. <b>Shengtong Han</b>, Raymond K. W. Wong, Thomas C. M. Lee, Linghao Shen, Shuo-Yen R. Li, Xiaodan Fan (2014). A Full Bayesian Approach for Boolean Genetic Network Inference. PLoS ONE, 9(12): e115806. doi:10.1371/journal.pone. 0115806.[[PDF]](https://han16.github.io/shengtonghan.github.io/files/Booleannetwork2014.pdf)[[Link]](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0115806&type=printable) 
 
 
-## Rare variant analysis of autism 
+## Statistical (epi)genetics and genomics 
+
+<p align="center">
+  <img src="https://han16.github.io/shengtonghan.github.io/images/network.png?raw=true" alt="Photo" style="width: 450px;"/> 
+</p>
+
 
 ## Locations of key files/directories
 
