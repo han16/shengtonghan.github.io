@@ -35,17 +35,13 @@ Trained as a statistician, I have long standing interest in statistical methodol
 </p>
 
 
-## Locations of key files/directories
+### Collaborators
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+[Xin lab](http://xinhelab.org), Department of Human Genetics, University of Chicago, IL
+[Gao Wang](https://www.tigerwang.org), Department of Neurology, Columbia University, NY
+
+### Papers
+
+1. <b>Shengtong Han</b>, Nicholas Knoblauch, Gao Wang, Siming Zhao, Yuwen Liu, Yubin Xie, Wenhui Sheng, Hoang T Nguyen, Xin He. A Bayesian method for rare variant analysis using functional annotations and its application to Autism. [bioRxiv][R-package]
+2. <b>Shengtong Han</b>, Hongmei Zhang, Gabrielle A. Lockett, Nandini Mukherjee, John W. Holloway, Wilfried J.J. Karmaus (2015). Identifying heterogeneous transgenerational DNA Methylation sites via clustering in Beta regression. The Annals of Applied Statistics, 9, 2052-2072.[PDF] 
+
