@@ -32,5 +32,8 @@ main:
   - title: "Openings"
     url: /openings/
     
+  - title: "Others"
+    url: /others/
+    
  # - title: "Guide"
  #   url: /markdown/
