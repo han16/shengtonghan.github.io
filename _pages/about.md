@@ -16,7 +16,7 @@ redirect_from:
 
  News 
 ======
-This is the front page of a generic Github pages website that uses the [academicpages template](https://github.com/academicpages/academicpages.github.io)
+This is the front page of a generic Github pages website that uses the [academicpages template](https://github.com/academicpages/academicpages.github.io), This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) by Michael Rose, and then extended to support the kinds of content
 
 
 
