@@ -42,7 +42,7 @@ Trained as a statistician, I have long standing interest in statistical methodol
 ### Papers
 
 
-1.<span style="font-size:0.5em;">  <b>Shengtong Han</b>, Nicholas Knoblauch, Gao Wang, Siming Zhao, Yuwen Liu, Yubin Xie, Wenhui Sheng, Hoang T Nguyen, Xin He. A Bayesian method for rare variant analysis using functional annotations and its application to Autism. [[bioRxiv]](https://www.biorxiv.org/content/10.1101/828061v1.full.pdf)[[R-package]](https://xinhe-lab.github.io/mirage/)</span>
+<span style="font-size:0.7em;"> 1.  <b>Shengtong Han</b>, Nicholas Knoblauch, Gao Wang, Siming Zhao, Yuwen Liu, Yubin Xie, Wenhui Sheng, Hoang T Nguyen, Xin He. A Bayesian method for rare variant analysis using functional annotations and its application to Autism. [[bioRxiv]](https://www.biorxiv.org/content/10.1101/828061v1.full.pdf)[[R-package]](https://xinhe-lab.github.io/mirage/)</span>
   
 2. <b>Shengtong Han</b>, Hongmei Zhang, Gabrielle A. Lockett, Nandini Mukherjee, John W. Holloway, Wilfried J.J. Karmaus (2015). Identifying heterogeneous transgenerational DNA Methylation sites via clustering in Beta regression. <i>The Annals of Applied Statistics</i>, 9, 2052-2072.[[PDF]](https://han16.github.io/shengtonghan.github.io/files/transmissionpaper2015.pdf)[[Link]](https://projecteuclid.org/download/pdfview_1/euclid.aoas/1453994191) 
 
