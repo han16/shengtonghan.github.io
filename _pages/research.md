@@ -51,3 +51,7 @@ Trained as a statistician, I have long standing interest in statistical methodol
 <p align="center">
   <img src="https://han16.github.io/shengtonghan.github.io/images/bioinformatics.png?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
+
+### Papers 
+
+Lulu Hu+, Yuwen Liu+, Shengtong Han+, Lei Yang+, Xiaolong Cui, Yawei Gao, Qing Dai, Xingyu Lu, Xiaochen Kou, Yanhong Zhao, Wenhui Sheng, Shaorong Gao, Xin He and Chuan He (2019). Jump-seq: genome-wide capture and amplification of 5hmC sites. Journal of American Chemical Society, 141, 22, 8694-8697.[PDF] 
