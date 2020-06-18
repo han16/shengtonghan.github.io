@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shengtong"
 title_separator          : "-"
 name                     : &name "Shengtong"
-description              : &description "UWM"
+description              : &description "University of Wisconsin, Milwaukee"
 url                      : https://han16.github.io/shengtonghan.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "han16/shengtonghan.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Dr. Shengtong Han"
   avatar           : "head shot.jpg"
-  bio              : "UWM"
+  bio              : "University of Wisconsin, Milwaukee"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=xA249R8AAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
