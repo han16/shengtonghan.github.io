@@ -23,9 +23,11 @@ Trained as a statistician, I have long standing interest in statistical methodol
 ### Papers 
 
 <span style="font-size:0.7em;"> 
-Hongmei Zhang, Xianzheng Huang, <b>Shengtong Han</b>, Faisal I. Rezwan, Wilfried Karmaus, Hasan Arshad, John W. Holloway. Bayesian network comparisons with applications to order-unknown epigenetic data, submitted.<br></span>
+Hongmei Zhang, Xianzheng Huang, <b>Shengtong Han</b>, Faisal I. Rezwan, Wilfried Karmaus, Hasan Arshad, John W. Holloway. Bayesian network comparisons with applications to order-unknown epigenetic data, submitted.</span>
+
 <span style="font-size:0.7em;"> 
 <b>Shengtong Han</b>, Hongmei Zhang, Ramin Homayouni, Wilfried Karmaus (2017). An efficient Bayesian approach for Gaussian Bayesian network structure learning. <i>Communications in Statistics-Simulation and Computation</i>, 46, 5070-5084.[[PDF]](https://han16.github.io/shengtonghan.github.io/files/network2017.pdf)[[Link]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6433420/pdf/nihms-1505247.pdf)</span>
+
 <span style="font-size:0.7em;"> 
 <b>Shengtong Han</b>, Raymond K. W. Wong, Thomas C. M. Lee, Linghao Shen, Shuo-Yen R. Li, Xiaodan Fan (2014). A Full Bayesian Approach for Boolean Genetic Network Inference. <i>PLoS ONE</i>, 9(12): e115806. doi:10.1371/journal.pone. 0115806.[[PDF]](https://han16.github.io/shengtonghan.github.io/files/Booleannetwork2014.pdf)[[Link]](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0115806&type=printable)</span> 
 
