@@ -2,12 +2,10 @@
 title: "A Bayesian method for rare variant analysis using functional annotations and its application to Autism"
 collection: publications
 permalink: /publications/MIRAGE
-excerpt: ''
-date:
-venue: ''
 paperurl: 'https://www.biorxiv.org/content/10.1101/828061v1.full.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: '<b>Shengtong Han</b>, Nicholas Knoblauch, Gao Wang, Siming Zhao, Yuwen Liu, Yubin Xie, Wenhui Sheng, Hoang T. Nguyen, Xin He'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+
+## Abstract
+Offline reinforcement learning (RL) refers to the problem of learning policies entirely from a batch of previously collected data. 
