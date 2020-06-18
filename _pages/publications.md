@@ -1,16 +1,12 @@
 ---
-layout: archive
-title: "Publications"
+title: "Publications[(Google Scholar)](https://scholar.google.com/citations?user=xA249R8AAAAJ&hl=en)"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## preprint 
+<br>
+<b>[A Bayesian method for rare variant analysis using functional annotations and its application to Autism](http://han16.github.io/shengtonghan.github.io/publication/MIRAGE)</b> <br>
+ <b>Shengtong Han</b>, Nicholas Knoblauch, Gao Wang, Siming Zhao, Yuwen Liu, Yubin Xie, Wenhui Sheng, Hoang T Nguyen, Xin He. A Bayesian method for rare variant analysis using functional annotations and its application to Autism. [bioRxiv][R-package]
+ 
+ 
