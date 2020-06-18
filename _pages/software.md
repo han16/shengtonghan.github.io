@@ -6,4 +6,4 @@ author_profile: true
 ---
 
 
-This is the software mirage. 
+### MIRAGE: an R package for MIxture model based Rare variant Analysis on GEnes
