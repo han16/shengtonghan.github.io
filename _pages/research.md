@@ -5,7 +5,10 @@ permalink: /research/
 author_profile: true
 ---
 
-## Dynamic epigentic networks  
+Trained as a statistician, I have long standing interest in statistical methodology development for graphical model inference, especially for directed acyclic graphs (DAG) as it serves a convenient way to decode and visualize complex relations among random variables and thus it has wide applications in many fields. Most applications center around graphical models. In addition, I am also working on developing statistical methods and computational tools to analyze high throughput sequencing data.     
+
+
+## Graphical models and network analysis 
 
 
 <p align="center">
