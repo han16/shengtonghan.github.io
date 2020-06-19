@@ -50,6 +50,9 @@ Hongmei Zhang, Xianzheng Huang, <b>Shengtong Han</b>, Faisal I. Rezwan, Wilfried
   <img src="https://han16.github.io/shengtonghan.github.io/images/genetics.png?raw=true" alt="Photo" style="width: 350px;"/> 
 </p>
 
+<span style="font-size:0.8em;">
+Rare variant (RV) is belived to have large effect size and has the potential to explain missing heritability in human complex traits such as autism.          </span> 
+
 
 ### Collaborators
 
