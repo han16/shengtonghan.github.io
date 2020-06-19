@@ -31,8 +31,10 @@ Hongmei Zhang, Xianzheng Huang, <b>Shengtong Han</b>, Faisal I. Rezwan, Wilfried
 <span style="font-size:0.7em;">
 <b>Shengtong Han</b>, Hongmei Zhang, Wilfried Karmaus, Graham Roberts, Hasan Arshad. <i>Communications in Statistics-Simulation and Computation</i>, 2017, 46, 5070-5084. [[PDF]](https://han16.github.io/shengtonghan.github.io/files/network2017.pdf)[[Link]](https://www.tandfonline.com/doi/full/10.1080/03610918.2016.1143103?scroll=top&needAccess=true) </span>
 
-<span style="font-size:0.7em;"> 
-<b>Shengtong Han</b>, Raymond K. W. Wong, Thomas C. M. Lee, Linghao Shen, Shuo-Yen R. Li, Xiaodan Fan (2014). A Full Bayesian Approach for Boolean Genetic Network Inference. <i>PLoS ONE</i>, 9(12): e115806. doi:10.1371/journal.pone. 0115806.[[PDF]](https://han16.github.io/shengtonghan.github.io/files/Booleannetwork2014.pdf)[[Link]](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0115806&type=printable)</span> 
+<span style="font-size:0.9em;"> 
+<b>     A Full Bayesian Approach for Boolean Genetic Network Inference </b> <br></span> 
+<span style="font-size:0.7em;">
+<b>Shengtong Han</b>, Raymond K. W. Wong, Thomas C. M. Lee, Linghao Shen, Shuo-Yen R. Li, Xiaodan Fan. <i>PLoS ONE</i>, 2014, 9(12): e115806. doi:10.1371/journal.pone. 0115806. [[PDF]](https://han16.github.io/shengtonghan.github.io/files/Booleannetwork2014.pdf)[[Link]](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0115806&type=printable) </span> 
 
 
 ## Statistical (epi)genetics and genomics 
