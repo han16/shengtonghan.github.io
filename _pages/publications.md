@@ -39,3 +39,18 @@ Lulu Hu\+, Yuwen Liu\+, <b>Shengtong Han\+</b>, Lei Yang+, Xiaolong Cui, Yawei G
 <b>   Adjusting background noise in cluster analysis of longitudinal data </b> <br></span> 
 <span style="font-size:0.7em;">
 <b>Shengtong Han</b>, Hongmei Zhang, Wilfried Karmaus, Graham Roberts, Hasan Arshad. <i>Computational Statistics and Data Analysis</i>, 2017, 109, 93-104. [[PDF]](https://han16.github.io/shengtonghan.github.io/files/clustering2017.pdf)[[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0167947316302730) </span>  
+
+<br>
+<span style="font-size:0.9em;"> 
+<b>   An efficient Bayesian approach for Gaussian Bayesian network structure learning </b> <br></span> 
+<span style="font-size:0.7em;">
+<b>Shengtong Han</b>, Hongmei Zhang, Wilfried Karmaus, Graham Roberts, Hasan Arshad. <i>Communications in Statistics-Simulation and Computation</i>, 2017, 46, 5070-5084. [[PDF]](https://han16.github.io/shengtonghan.github.io/files/gaussionbayesiannetwork2017.pdf)[[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0167947316302730) </span>
+
+
+
+
+<br>
+<span style="font-size:0.9em;"> 
+<b>    Identifying heterogeneous transgenerational DNA Methylation sites via clustering in Beta regression </b> <br></span> 
+<span style="font-size:0.7em;">
+<b>Shengtong Han</b>, Hongmei Zhang, Gabrielle A. Lockett, Nandini Mukherjee, John W. Holloway, Wilfried J.J. Karmaus. <i>The Annals of Applied Statistics</i>, 2015, 9, 2052-2072. [[PDF]](https://han16.github.io/shengtonghan.github.io/files/transmission2015.pdf)[[Link]](https://projecteuclid.org/download/pdfview_1/euclid.aoas/1453994191) </span> 
