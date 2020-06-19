@@ -9,6 +9,6 @@ author_profile: true
   * PH 702 An introduction to Biostatistics  
   * PH 711 Intermediate Biostatistics 
   * PH 718 Data Management and Visualization in R
-  * PH 722 An introduction to Bayesian Statistics
+  * PH 722 An introduction to Bayesian Statistics (developed)
 
 
