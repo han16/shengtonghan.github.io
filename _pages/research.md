@@ -17,9 +17,9 @@ Trained as a statistician, I have long standing interest in statistical methodol
 
 ### Collaborators
 
-<span style="font-size:0.9em;"> 
+<span style="font-size:0.8em;"> 
 [Han Liu](http://magics.cs.northwestern.edu/people.html), Department of Computer Science and Statistics, Northwestern University, Evanston, IL.<br></span> 
-<span style="font-size:0.9em;"> 
+<span style="font-size:0.8em;"> 
  [Hongmei Zhang](https://www.memphis.edu/sph/contact/faculty_profiles/zhang.php), School of Public Health, University of Memphis, TN<br> </span>
 
 ### Papers 
@@ -49,9 +49,9 @@ Hongmei Zhang, Xianzheng Huang, <b>Shengtong Han</b>, Faisal I. Rezwan, Wilfried
 
 ### Collaborators
 
-<span style="font-size:0.9em;"> 
+<span style="font-size:0.8em;"> 
 [Xin lab](http://xinhelab.org), Department of Human Genetics, University of Chicago, IL<br> </span> 
-<span style="font-size:0.9em;">   
+<span style="font-size:0.8em;">   
 [Gao Wang](https://www.tigerwang.org), Department of Neurology, Columbia University, NY <br> </span>
 
 ### Papers
