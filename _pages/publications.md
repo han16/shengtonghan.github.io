@@ -44,7 +44,7 @@ Lulu Hu\+, Yuwen Liu\+, <b>Shengtong Han\+</b>, Lei Yang+, Xiaolong Cui, Yawei G
 <span style="font-size:0.9em;"> 
 <b>   An efficient Bayesian approach for Gaussian Bayesian network structure learning </b> <br></span> 
 <span style="font-size:0.7em;">
-<b>Shengtong Han</b>, Hongmei Zhang, Wilfried Karmaus, Graham Roberts, Hasan Arshad. <i>Communications in Statistics-Simulation and Computation</i>, 2017, 46, 5070-5084. [[PDF]](https://han16.github.io/shengtonghan.github.io/files/gaussionbayesiannetwork2017.pdf)[[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0167947316302730) </span>
+<b>Shengtong Han</b>, Hongmei Zhang, Wilfried Karmaus, Graham Roberts, Hasan Arshad. <i>Communications in Statistics-Simulation and Computation</i>, 2017, 46, 5070-5084. [[PDF]](https://han16.github.io/shengtonghan.github.io/files/gaussionbayesiannetwork2017.pdf)[[Link]](https://www.tandfonline.com/doi/full/10.1080/03610918.2016.1143103?scroll=top&needAccess=true) </span>
 
 
 
