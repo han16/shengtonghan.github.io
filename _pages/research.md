@@ -24,8 +24,10 @@ Trained as a statistician, I have long standing interest in statistical methodol
 
 ### Papers 
 
-<span style="font-size:0.7em;"> 
-Hongmei Zhang, Xianzheng Huang, <b>Shengtong Han</b>, Faisal I. Rezwan, Wilfried Karmaus, Hasan Arshad, John W. Holloway. Bayesian network comparisons with applications to order-unknown epigenetic data, submitted.</span>
+<span style="font-size:0.9em;"> 
+<b>  Bayesian network comparisons with applications to order-unknown epigenetic data </b> <br></span>
+<span style="font-size:0.7em;">
+Hongmei Zhang, Xianzheng Huang, <b>Shengtong Han</b>, Faisal I. Rezwan, Wilfried Karmaus, Hasan Arshad, John W. Holloway.<i> submitted</i>.</span>
 
 <span style="font-size:0.9em;"> 
 <b>   An efficient Bayesian approach for Gaussian Bayesian network structure learning </b> <br></span> 
