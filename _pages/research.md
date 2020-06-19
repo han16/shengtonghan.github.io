@@ -17,7 +17,7 @@ Trained as a statistician, I have long standing interest in statistical methodol
 
 
 <span style="font-size:0.8em;">
-Graphical models have attracted increasing attentions in computer science, machine learning and artificial intelligence. One challenging problem is developing computationally efficient algorithms with nice statistical property to infer graph structure which allows one to identity conditional (in)dependence relations among variables. The computing burden is even more severe for directed graphs as directionality brings complexity in.      </span> 
+Graphical models have attracted increasing attentions in computer science, machine learning and artificial intelligence. One challenging problem is developing computationally efficient algorithms with nice statistical property to infer graph structure which allows one to identity conditional (in)dependence relations among variables. The computing burden is even more severe for directed graphs as directionality brings complexity in. We are developing novel machine learning algorithms which are more robust and fast and proposing new models to address these challenges.        </span> 
 
 ### Collaborators
 
