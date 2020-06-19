@@ -51,8 +51,13 @@ Hongmei Zhang, Xianzheng Huang, <b>Shengtong Han</b>, Faisal I. Rezwan, Wilfried
 
 ### Papers
 
-<span style="font-size:0.7em;"> 
-<b>Shengtong Han</b>, Nicholas Knoblauch, Gao Wang, Siming Zhao, Yuwen Liu, Yubin Xie, Wenhui Sheng, Hoang T Nguyen, Xin He. A Bayesian method for rare variant analysis using functional annotations and its application to Autism. [[bioRxiv]](https://www.biorxiv.org/content/10.1101/828061v1.full.pdf)[[R-package]](https://xinhe-lab.github.io/mirage/)</span>
+<br>
+<span style="font-size:0.9em;">
+<b>[A Bayesian method for rare variant analysis using functional annotations and its application to Autism](http://han16.github.io/shengtonghan.github.io/publications/MIRAGE)  </b> <br> </span>
+<span style="font-size:0.7em;">
+ <b>Shengtong Han</b>, Nicholas Knoblauch, Gao Wang, Siming Zhao, Yuwen Liu, Yubin Xie, Wenhui Sheng, Hoang T Nguyen, Xin He. 
+[[bioRxiv]](https://www.biorxiv.org/content/10.1101/828061v1.full.pdf)[[R-package]](https://xinhe-lab.github.io/mirage/)
+</span>
   
 <span style="font-size:0.7em;"> 
  <b>Shengtong Han</b>, Hongmei Zhang, Gabrielle A. Lockett, Nandini Mukherjee, John W. Holloway, Wilfried J.J. Karmaus (2015). Identifying heterogeneous transgenerational DNA Methylation sites via clustering in Beta regression. <i>The Annals of Applied Statistics</i>, 9, 2052-2072.[[PDF]](https://han16.github.io/shengtonghan.github.io/files/transmissionpaper2015.pdf)[[Link]](https://projecteuclid.org/download/pdfview_1/euclid.aoas/1453994191)</span> 
