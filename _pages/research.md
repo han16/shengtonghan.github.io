@@ -50,7 +50,7 @@ Hongmei Zhang, Xianzheng Huang, <b>Shengtong Han</b>, Faisal I. Rezwan, Wilfried
 <span style="font-size:0.9em;"> 
 [Xin lab](http://xinhelab.org), Department of Human Genetics, University of Chicago, IL<br> </span>
 <span style="font-size:0.9em;">   
-[Gao Wang](https://www.tigerwang.org), Department of Neurology, Columbia University, NY </span>
+[Gao Wang](https://www.tigerwang.org), Department of Neurology, Columbia University, NY <br> </span>
 
 ### Papers
 
