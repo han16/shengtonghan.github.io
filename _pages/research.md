@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 <span style="font-size:0.8em;">
-Trained as a statistician, I have long standing interest in statistical methodology development for graphical model inference, either directed graphs, e.g. directed acyclic graphs (DAG) or undirected graph, e.g. Gaussian Copula model  as they serve a compact and elegant way to decode and visualize complex relations among random variables and thus generate wide applications in many fields, such as social network, biological pathway analysis and Gaussian Copula graphical model in financial market. Most applications center around graphical models. I am also generally interested in developing novel statistical methods(frequentist approach or Bayesian method) driven by problems arising in biostatistics, public health, (epi)genetics and genomics.</span>     
+Trained as a statistician, I have long standing interest in statistical methodology development for graphical model inference, either directed graphs, e.g. directed acyclic graphs (DAG) or undirected graph, e.g. Gaussian graphical model  as they serve a compact and elegant way to decode and visualize complex relations among random variables and thus generate wide applications in many fields, such as social network, biological pathway analysis and Gaussian Copula graphical model in financial market. Most applications center around graphical models. I am also generally interested in developing novel statistical methods(frequentist approach or Bayesian method) driven by problems arising in biostatistics, public health, (epi)genetics and genomics.</span>     
 
 
 ## Graphical models and network analysis 
