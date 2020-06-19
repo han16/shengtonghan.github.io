@@ -32,6 +32,6 @@ Lulu Hu\+, Yuwen Liu\+, <b>Shengtong Han\+</b>, Lei Yang+, Xiaolong Cui, Yawei G
 <span style="font-size:0.9em;"> 
 <b>  The nested joint clustering via Dirichlet process mixture model </b> <br></span> 
 <span style="font-size:0.7em;">
-<b>Shengtong Han\+</b>, Hongmei Zhang, Wenhui Sheng, Hasan Arshad. <i>Journal of Statistical Computation and Simulation</i>, 2019, 89, 815-830. [[PDF]](https://han16.github.io/shengtonghan.github.io/files/jointnestedclustering2019.pdf)[[Link]](https://www.tandfonline.com/doi/abs/10.1080/00949655.2019.1572756?journalCode=gscs20) </span> 
+<b>Shengtong Han\*</b>, Hongmei Zhang, Wenhui Sheng, Hasan Arshad. <i>Journal of Statistical Computation and Simulation</i>, 2019, 89, 815-830. [[PDF]](https://han16.github.io/shengtonghan.github.io/files/jointnestedclustering2019.pdf)[[Link]](https://www.tandfonline.com/doi/abs/10.1080/00949655.2019.1572756?journalCode=gscs20) </span> 
 
  
