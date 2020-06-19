@@ -59,8 +59,11 @@ Hongmei Zhang, Xianzheng Huang, <b>Shengtong Han</b>, Faisal I. Rezwan, Wilfried
 [[bioRxiv]](https://www.biorxiv.org/content/10.1101/828061v1.full.pdf)[[R-package]](https://xinhe-lab.github.io/mirage/)
 </span>
   
-<span style="font-size:0.7em;"> 
- <b>Shengtong Han</b>, Hongmei Zhang, Gabrielle A. Lockett, Nandini Mukherjee, John W. Holloway, Wilfried J.J. Karmaus (2015). Identifying heterogeneous transgenerational DNA Methylation sites via clustering in Beta regression. <i>The Annals of Applied Statistics</i>, 9, 2052-2072.[[PDF]](https://han16.github.io/shengtonghan.github.io/files/transmissionpaper2015.pdf)[[Link]](https://projecteuclid.org/download/pdfview_1/euclid.aoas/1453994191)</span> 
+<br>
+<span style="font-size:0.9em;"> 
+<b>    Identifying heterogeneous transgenerational DNA Methylation sites via clustering in Beta regression </b> <br></span> 
+<span style="font-size:0.7em;">
+<b>Shengtong Han</b>, Hongmei Zhang, Gabrielle A. Lockett, Nandini Mukherjee, John W. Holloway, Wilfried J.J. Karmaus. <i>The Annals of Applied Statistics</i>, 2015, 9, 2052-2072. [[PDF]](https://han16.github.io/shengtonghan.github.io/files/transmissionpaper2015.pdf)[[Link]](https://projecteuclid.org/download/pdfview_1/euclid.aoas/1453994191) </span> 
 
 
 
