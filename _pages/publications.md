@@ -54,3 +54,17 @@ Lulu Hu\+, Yuwen Liu\+, <b>Shengtong Han\+</b>, Lei Yang+, Xiaolong Cui, Yawei G
 <b>    Identifying heterogeneous transgenerational DNA Methylation sites via clustering in Beta regression </b> <br></span> 
 <span style="font-size:0.7em;">
 <b>Shengtong Han</b>, Hongmei Zhang, Gabrielle A. Lockett, Nandini Mukherjee, John W. Holloway, Wilfried J.J. Karmaus. <i>The Annals of Applied Statistics</i>, 2015, 9, 2052-2072. [[PDF]](https://han16.github.io/shengtonghan.github.io/files/transmissionpaper2015.pdf)[[Link]](https://projecteuclid.org/download/pdfview_1/euclid.aoas/1453994191) </span> 
+
+
+<br>
+<span style="font-size:0.9em;"> 
+<b>     A Full Bayesian Approach for Boolean Genetic Network Inference </b> <br></span> 
+<span style="font-size:0.7em;">
+<b>Shengtong Han</b>, Raymond K. W. Wong, Thomas C. M. Lee, Linghao Shen, Shuo-Yen R. Li, Xiaodan Fan. <i>PLoS ONE</i>,  9(12): e115806. doi:10.1371/journal.pone. 0115806. [[PDF]](https://han16.github.io/shengtonghan.github.io/files/Booleannetwork2014.pdf)[[Link]](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0115806&type=printable) </span> 
+
+
+<br>
+<span style="font-size:0.9em;"> 
+<b>     Smoothing Spline Estimation for Partially Linear Single-index Models </b> <br></span> 
+<span style="font-size:0.7em;">
+Bartholomew Leung, Heung Wong, Riquan Zhang, <b>Shengtong Han</b>. <i>Communications in Statistics-Simulation and Computation</i>,2010, 39, 1953 - 1961. [[PDF]](https://han16.github.io/shengtonghan.github.io/files/singleindexmodel2010.pdf)[[Link]](https://www.tandfonline.com/doi/abs/10.1080/03610918.2010.526735?needAccess=true&journalCode=lssp20) </span> 
