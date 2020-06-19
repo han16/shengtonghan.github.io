@@ -16,7 +16,7 @@ redirect_from:
 
 ## News 
 
-<span style="font-size:0.7em;">
+<span style="font-size:0.8em;">
 <b>2020/02</b> Our team, John Mantsch (Marquette), Praveen Madiraju (Marquette), Aleksandra Snowden (Marquette), Rina Ghose (UWM), Shengtong Han (UWM) have received a startup fund of  $12,600 from Northwestern Mutual Data Science Institute to study opioid crisis in Milwaukee. 
   </span>
 
