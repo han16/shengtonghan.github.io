@@ -17,8 +17,8 @@ Trained as a statistician, I have long standing interest in statistical methodol
 
 ### Collaborators
 
-[Han Liu](http://magics.cs.northwestern.edu/people.html), Department of Computer Science and Statistics, Northwestern University, Evanston, IL.<br> 
-[Hongmei Zhang](https://www.memphis.edu/sph/contact/faculty_profiles/zhang.php), School of Public Health, University of Memphis, TN<br>
+* [Han Liu](http://magics.cs.northwestern.edu/people.html), Department of Computer Science and Statistics, Northwestern University, Evanston, IL.<br> 
+* [Hongmei Zhang](https://www.memphis.edu/sph/contact/faculty_profiles/zhang.php), School of Public Health, University of Memphis, TN<br>
 
 ### Papers 
 
