@@ -38,4 +38,4 @@ Lulu Hu\+, Yuwen Liu\+, <b>Shengtong Han\+</b>, Lei Yang+, Xiaolong Cui, Yawei G
 <span style="font-size:0.9em;"> 
 <b>   Adjusting background noise in cluster analysis of longitudinal data </b> <br></span> 
 <span style="font-size:0.7em;">
-<b>Shengtong Han\*</b>, Hongmei Zhang, Wilfried Karmaus, Graham Roberts, Hasan Arshad. <i>Computational Statistics and Data Analysis</i>, 2017, 109, 93-104. [[PDF]](https://han16.github.io/shengtonghan.github.io/files/clustering2017.pdf)[[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0167947316302730) </span>  
+<b>Shengtong Han</b>, Hongmei Zhang, Wilfried Karmaus, Graham Roberts, Hasan Arshad. <i>Computational Statistics and Data Analysis</i>, 2017, 109, 93-104. [[PDF]](https://han16.github.io/shengtonghan.github.io/files/clustering2017.pdf)[[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0167947316302730) </span>  
