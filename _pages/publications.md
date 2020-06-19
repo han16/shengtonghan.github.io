@@ -24,7 +24,7 @@ author_profile: true
 
 <br>
 <span style="font-size:0.9em;"> 
-1. <b> Jump-seq: genome-wide capture and amplification of 5hmC sites </b> <br></span> 
+1 <b> Jump-seq: genome-wide capture and amplification of 5hmC sites </b> <br></span> 
 <span style="font-size:0.7em;">
 Lulu Hu\+, Yuwen Liu\+, <b>Shengtong Han\+</b>, Lei Yang+, Xiaolong Cui, Yawei Gao, Qing Dai, Xingyu Lu, Xiaochen Kou, Yanhong Zhao, Wenhui Sheng, Shaorong Gao, Xin He and Chuan He. <i>Journal of American Chemical Society</i>, 2019, 141, 22, 8694-8697. [[PDF]](https://han16.github.io/shengtonghan.github.io/files/jumpseq2019.pdf)[[Link]](https://pubs.acs.org/doi/pdf/10.1021/jacs.9b02512) </span> 
 
