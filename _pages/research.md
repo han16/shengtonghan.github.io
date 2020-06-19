@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-<span style="font-size:0.9em;">
+<span style="font-size:0.8em;">
 Trained as a statistician, I have long standing interest in statistical methodology development for graphical model inference, either directed graphs, e.g. directed acyclic graphs (DAG) or undirected graph, e.g. Gaussian Copula model  as they serve a compact and elegant way to decode and visualize complex relations among random variables and thus generate wide applications in many fields, such as social network, biological pathway analysis and Gaussian Copula model in financial market. Most applications center around graphical models. I am also generally interested in developing novel statistical methods(frequentist approach or Bayesian method) driven by problems arising in biostatistics, public health, (epi)genetics and genomics.</span>     
 
 
@@ -14,6 +14,10 @@ Trained as a statistician, I have long standing interest in statistical methodol
 <p align="center">
   <img src="https://han16.github.io/shengtonghan.github.io/images/network.png?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
+
+
+<span style="font-size:0.8em;">
+Graphical models have attracted increasing attentions in computer science, machine learning and artificial intelligence.</span> 
 
 ### Collaborators
 
