@@ -18,7 +18,7 @@ redirect_from:
 
 
 <span style="font-size:0.8em;">
-<b>2020/05</b> A student research assistant position is available in our opioid research tean this summer (filled). </span> </br>
+<b>2020/05</b> A student research assistant position is available in our opioid research team this summer (filled).</br> </span> 
 
 
 <span style="font-size:0.8em;">
