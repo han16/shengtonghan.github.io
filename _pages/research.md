@@ -24,7 +24,7 @@ Graphical models have attracted increasing attentions in computer science, machi
 <span style="font-size:0.8em;"> 
 [Han Liu](http://magics.cs.northwestern.edu/people.html), Department of Computer Science and Statistics, Northwestern University, Evanston, IL.<br></span> 
 <span style="font-size:0.8em;"> 
- [Hongmei Zhang](https://www.memphis.edu/sph/contact/faculty_profiles/zhang.php), School of Public Health, University of Memphis, TN<br> </span>
+ [Hongmei Zhang](https://www.memphis.edu/sph/contact/faculty_profiles/zhang.php), School of Public Health, University of Memphis, TN<br></span>
 
 ### Papers 
 
@@ -51,7 +51,7 @@ Hongmei Zhang, Xianzheng Huang, <b>Shengtong Han</b>, Faisal I. Rezwan, Wilfried
 </p>
 
 <span style="font-size:0.8em;">
-Rare variants (RV) are belived to have large effect size and have the potential to explain missing heritability in human complex traits such as autism.  Rare variant association tests tend to be underpowered due to low allele frequency and heterogeneity of effect size in variant pool. We are developing new Bayesian approach to boost the statistical power by partitioning RV into differnt variant groups and leveraging numerous functional annotations.            </span> 
+Rare variants (RV) are belived to have large effect size and have the potential to explain missing heritability in human complex traits such as autism.  Rare variant association tests tend to be underpowered due to low allele frequency and heterogeneity of effect size in variant pool. We are developing new Bayesian approach to boost the statistical power by partitioning RV into different variant groups and leveraging numerous functional annotations.            </span> 
 
 
 ### Collaborators
@@ -59,7 +59,7 @@ Rare variants (RV) are belived to have large effect size and have the potential 
 <span style="font-size:0.8em;"> 
 [Xin lab](http://xinhelab.org), Department of Human Genetics, University of Chicago, IL<br></span>
 <span style="font-size:0.8em;">   
-[Gao Wang](https://www.tigerwang.org), Department of Neurology, Columbia University, NY <br></span>
+[Gao Wang](https://www.tigerwang.org), Department of Neurology, Columbia University, NY<br></span>
 
 ### Papers
 
