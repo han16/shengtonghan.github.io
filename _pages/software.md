@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-### MIRAGE: an R package for <ins>MI</ins>xture model based Rare variant Analysis on GEnes
+### MIRAGE: an R package for <ins>MI</ins>xture model based <ins>R</ins>are variant <ins>A</ins>nalysis on <ins>GE</ins>nes
 
 <p align="center">
   <img src="https://han16.github.io/shengtonghan.github.io/images/MIRAGEworkflow.png?raw=true" alt="Photo" style="width: 450px;"/> 
