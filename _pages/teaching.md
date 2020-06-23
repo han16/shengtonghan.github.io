@@ -10,5 +10,6 @@ author_profile: true
   * PH 711 Intermediate Biostatistics 
   * PH 718 Data Management and Visualization in R
   * PH 722 An introduction to Bayesian Statistics (developed)
+  * PH 895 Research and Thesis for MS in Biostatistics
 
 
