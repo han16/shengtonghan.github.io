@@ -18,11 +18,11 @@ redirect_from:
 
 
 <span style="font-size:0.8em;">
-<b>2020/05</b> A student research assistant position is available in our opioid research team this summer (filled). </span> 
+<b>May 2020</b> A student research assistant position is available in our opioid research team this summer (filled). </span> 
 
 
 <span style="font-size:0.8em;">
-<b>2020/02</b> Our team, John Mantsch (Marquette), Praveen Madiraju (Marquette), Aleksandra Snowden (Marquette), Rina Ghose (UWM), Shengtong Han (UWM) have received a startup fund of  $12,600 from Northwestern Mutual Data Science Institute to study opioid crisis in Milwaukee. </span>
+<b>Feb 2020</b> Our team, John Mantsch (Marquette), Praveen Madiraju (Marquette), Aleksandra Snowden (Marquette), Rina Ghose (UWM), Shengtong Han (UWM) have received a startup fund of  $12,600 from Northwestern Mutual Data Science Institute to study opioid crisis in Milwaukee. </span>
 
 
 
