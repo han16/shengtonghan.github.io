@@ -18,7 +18,7 @@ redirect_from:
 
 
 <span style="font-size:0.8em;">
-<b>May 2020</b> A student research assistant position is available in our opioid research team this summer[[more information]](https://han16.github.io/shengtonghan.github.io//openings/) (filled). </span> 
+<b>May 2020</b> A student research assistant position is available in our opioid research team this summer [[more information]](https://han16.github.io/shengtonghan.github.io//openings/) (filled). </span> 
 
 
 <span style="font-size:0.8em;">
