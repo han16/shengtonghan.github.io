@@ -14,5 +14,5 @@ author_profile: true
   
  <span style="font-size:0.7em;">
  step 1: login to PI's [eRA Commons account](https://public.era.nih.gov/commons/public/login.do?TARGET=https%3A%2F%2Fpublic.era.nih.gov%2Fcommons%2FcommonsInit.do) to access the data <br>
- step 2: once you find the requested data, click download. There are several options, you may choose download to the local machine or HPC cluster which is preferred because the raw data is pretty big, (could be ~100G).   
+ step 2: once you find the requested data, click download. There are several options, you may choose download to the local machine or HPC cluster which is preferred because the raw data even zipped is pretty big, (could be ~100G).   
  </span>
