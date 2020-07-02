@@ -8,6 +8,8 @@ author_profile: true
 * University of Wisconsin, Milwaukee, WI
   * PH 702 An introduction to Biostatistics  
   * PH 711 Intermediate Biostatistics 
+  * PH 715 Applied Categorical Data
+  * PH 716 Applied Survival Analysis 
   * PH 718 Data Management and Visualization in R
   * PH 722 An introduction to Bayesian Statistics (developed)
   * PH 895 Research and Thesis for MS in Biostatistics
