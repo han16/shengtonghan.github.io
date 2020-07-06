@@ -51,7 +51,7 @@ Hongmei Zhang, Xianzheng Huang, <b>Shengtong Han</b>, Faisal I. Rezwan, Wilfried
 </p>
 
 <span style="font-size:0.8em;">
-Rare variants (RV) are believed to have large effect size and have the potential to explain missing heritability in human complex traits such as autism.  Rare variant association tests tend to be underpowered due to low allele frequency and simple pooling of variants with heterogeneous effect size, e.g. LoF variants tends to be more deleterious than missense. We are developing a  Bayesian framework to boost the statistical power by accounting for heterogeneous effect size in different variant groups defined based on numerous functional annotations, such as Polyphone, CADD score.            </span> 
+Rare variants (RV) are believed to have large effect size and have the potential to explain missing heritability in human complex traits such as autism.  Rare variant association tests tend to be underpowered due to low allele frequency and simple pooling of variants with heterogeneous effect size, e.g. LoF variants tends to be more deleterious than missense. We are developing a  Bayesian framework to boost the statistical power by accounting for heterogeneous effect size in different variant groups defined based on numerous functional annotations, such as Polyphone, CADD score and apply the method to study the genetics of human complex diseases, including Autism Spectrum Disorders (ASD) and Alzheimer's diseases (AD).              </span> 
 
 
 ### Collaborators
