@@ -51,7 +51,7 @@ Hongmei Zhang, Xianzheng Huang, <b>Shengtong Han</b>, Faisal I. Rezwan, Wilfried
 </p>
 
 <span style="font-size:0.8em;">
-Rare variants (RV) are believed to have large effect size and have the potential to explain missing heritability in human complex traits such as autism.  Rare variant association tests tend to be underpowered due to low allele frequency and simply pooling variants with heterogeneous effect size. We are developing new Bayesian approach to boost the statistical power by partitioning RV into different variant groups with similar effect size and leveraging numerous functional annotations.            </span> 
+Rare variants (RV) are believed to have large effect size and have the potential to explain missing heritability in human complex traits such as autism.  Rare variant association tests tend to be underpowered due to low allele frequency and simple pooling of variants with heterogeneous effect size. We are developing new Bayesian approach to boost the statistical power by partitioning RV into different variant groups with similar effect size and leveraging numerous functional annotations.            </span> 
 
 
 ### Collaborators
