@@ -23,7 +23,7 @@ Hongmei Zhang, Xianzheng Huang, <b>Shengtong Han</b>, Faisal I. Rezwan, Wilfried
 
 ## Published 
 
-[(Google Scholar)](https://scholar.google.com/citations?user=xA249R8AAAAJ&hl=en)
+[Google Scholar](https://scholar.google.com/citations?user=xA249R8AAAAJ&hl=en)
 
 <span style="font-size:0.9em;"> 
 \+ co-first authors; \* corresponding author </span>
