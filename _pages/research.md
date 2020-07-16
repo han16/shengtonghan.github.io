@@ -66,7 +66,6 @@ Rare variants (RV) are believed to have large effect size and have the potential
 
 ### Papers
 
-<br>
 <span style="font-size:0.9em;">
 <b>[A Bayesian method for rare variant analysis using functional annotations and its application to Autism](http://han16.github.io/shengtonghan.github.io/publications/MIRAGE)  </b> <br> </span>
 <span style="font-size:0.7em;">
@@ -74,7 +73,6 @@ Rare variants (RV) are believed to have large effect size and have the potential
 [[bioRxiv]](https://www.biorxiv.org/content/10.1101/828061v1.full.pdf)[[R-package]](https://xinhe-lab.github.io/mirage/)
 </span>
   
-<br>
 <span style="font-size:0.9em;"> 
 <b>    Identifying heterogeneous transgenerational DNA Methylation sites via clustering in Beta regression </b> <br></span> 
 <span style="font-size:0.7em;">
@@ -88,7 +86,6 @@ Rare variants (RV) are believed to have large effect size and have the potential
   <img src="https://han16.github.io/shengtonghan.github.io/images/bioinformatics.png?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
-<br>
 <span style="font-size:0.9em;"> 
  <b> Jump-seq: genome-wide capture and amplification of 5hmC sites </b> <br></span> 
 <span style="font-size:0.7em;">
