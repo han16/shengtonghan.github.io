@@ -6,7 +6,6 @@ author_profile: true
 
 ## Preprint 
 
-<br>
 <span style="font-size:0.9em;">
 <b>[A Bayesian method for rare variant analysis using functional annotations and its application to Autism](http://han16.github.io/shengtonghan.github.io/publications/MIRAGE)  </b> <br> </span>
 <span style="font-size:0.7em;">
