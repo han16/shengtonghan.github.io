@@ -20,7 +20,6 @@ Trained as a statistician, I have long standing interest in statistical methodol
 Graphical models have attracted increasing attentions in computer science, machine learning and artificial intelligence. One challenging problem is developing computationally efficient algorithms with nice statistical property to infer graph structure which allows one to identity conditional (in)dependence relations among variables. The computing burden is even more severe for directed graphs as directionality brings complexity in. We are developing novel statistically robust and computationally efficient machine learning algorithms to address these challenges.        </span> 
 
 ### Collaborators
-
 <span style="font-size:0.8em;"> 
 [Han Liu](http://magics.cs.northwestern.edu/people.html), Department of Computer Science and Statistics, Northwestern University, Evanston, IL.<br></span> 
 <span style="font-size:0.8em;"> 
@@ -55,7 +54,6 @@ Rare variants (RV) are believed to have large effect size and have the potential
 
 
 ### Collaborators
-
 <span style="font-size:0.8em;">  
 [Xin lab](http://xinhelab.org), Department of Human Genetics, University of Chicago, IL.</span>
 <span style="font-size:0.8em;">   
