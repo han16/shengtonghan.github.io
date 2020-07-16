@@ -24,7 +24,7 @@ Graphical models have attracted increasing attentions in computer science, machi
 <span style="font-size:0.8em;"> 
 [Han Liu](http://magics.cs.northwestern.edu/people.html), Department of Computer Science and Statistics, Northwestern University, Evanston, IL.<br></span> 
 <span style="font-size:0.8em;"> 
- [Hongmei Zhang](https://www.memphis.edu/sph/contact/faculty_profiles/zhang.php), School of Public Health, University of Memphis, TN<br></span>
+ [Hongmei Zhang](https://www.memphis.edu/sph/contact/faculty_profiles/zhang.php), School of Public Health, University of Memphis, TN.<br></span>
 
 ### Papers 
 
@@ -57,11 +57,11 @@ Rare variants (RV) are believed to have large effect size and have the potential
 ### Collaborators
 
 <span style="font-size:0.8em;">  
-[Xin lab](http://xinhelab.org), Department of Human Genetics, University of Chicago, IL. <br></span>
+[Xin lab](http://xinhelab.org), Department of Human Genetics, University of Chicago, IL.<br></span>
 <span style="font-size:0.8em;">   
-[Gao Wang](https://www.tigerwang.org), Department of Neurology, Columbia University, NY. <br></span>
+[Gao Wang](https://www.tigerwang.org), Department of Neurology, Columbia University, NY.<br></span>
 <span style="font-size:0.8em;">   
-[Autism Sequencing Consortium (ASC)](https://genome.emory.edu/ASC/) <br></span>
+[Autism Sequencing Consortium (ASC)](https://genome.emory.edu/ASC/)<br></span>
 
 
 ### Papers
