@@ -58,7 +58,6 @@ Rare variants (RV) are believed to have large effect size and have the potential
 
 <span style="font-size:0.8em;">  
 [Xin lab](http://xinhelab.org), Department of Human Genetics, University of Chicago, IL.</span>
-
 <span style="font-size:0.8em;">   
 [Gao Wang](https://www.tigerwang.org), Department of Neurology, Columbia University, NY.<br></span>
 <span style="font-size:0.8em;">   
