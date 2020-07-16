@@ -57,11 +57,11 @@ Rare variants (RV) are believed to have large effect size and have the potential
 ### Collaborators
 
 <span style="font-size:0.8em;">  
-[Xin lab](http://xinhelab.org), Department of Human Genetics, University of Chicago, IL.<br></span>
+[Xin lab](http://xinhelab.org), Department of Human Genetics, University of Chicago, IL. <br></span>
 <span style="font-size:0.8em;">   
-[Gao Wang](https://www.tigerwang.org), Department of Neurology, Columbia University, NY<br></span>
+[Gao Wang](https://www.tigerwang.org), Department of Neurology, Columbia University, NY. <br></span>
 <span style="font-size:0.8em;">   
-[Autism Sequencing Consortium (ASC)](https://genome.emory.edu/ASC/)<br></span>
+[Autism Sequencing Consortium (ASC)](https://genome.emory.edu/ASC/) <br></span>
 
 
 ### Papers
