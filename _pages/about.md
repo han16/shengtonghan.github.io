@@ -18,8 +18,7 @@ redirect_from:
 
 
 <span style="font-size:0.8em;">
-<b>Jul 2020</b> It is a privilege to be part of the large scale [Autism Sequencing Consortium (ASC)](https://genome.emory.edu/ASC/), an international team of scientists working collectively to identify ASD susceptibility loci and genes. 
-  . </span> 
+<b>Jul 2020</b> It is a privilege to be part of the large scale [Autism Sequencing Consortium (ASC)](https://genome.emory.edu/ASC/), an international team of scientists working collectively to identify ASD susceptibility loci and genes. </span> 
 
 
 <span style="font-size:0.8em;">
