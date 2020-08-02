@@ -31,6 +31,9 @@ main:
     
   - title: "Openings"
     url: /openings/
+  
+  - title: "News"
+    url: /news/
     
   - title: "Others"
     url: /others/
