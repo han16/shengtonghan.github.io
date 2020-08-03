@@ -7,7 +7,7 @@ author_profile: true
 
 
 <span style="font-size:0.8em;">
-<b>Aug 2020</b> A talk about a new Bayeisan approach for rare variant analysis using functional annotations is presented (online) in joint statistical meeting (JSM). </span> 
+<b>Aug 2020</b> A talk about a new Bayesian approach for rare variant analysis using functional annotations is presented (online) in joint statistical meeting (JSM). </span> 
 
 
 
