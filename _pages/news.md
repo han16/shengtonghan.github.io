@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <span style="font-size:0.8em;">
-<b>Aug 2020</b> Our abstract about a new Bayesian framework for rare variant analysis is accepted for a poster presentation in American Society of Human Genetics annual conference (ASHG) 2020. </span> 
+<b>Aug 2020</b> Our abstract about a new Bayesian framework for rare variant analysis is accepted for a poster presentation in American Society of Human Genetics (ASHG) annual conference 2020. </span> 
 
 
 <span style="font-size:0.8em;">
