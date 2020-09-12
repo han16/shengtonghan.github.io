@@ -16,9 +16,14 @@ author_profile: true
 ## Submitted/Under revision 
 
 <span style="font-size:0.9em;"> 
-<b>  Bayesian network comparisons with applications to order-unknown epigenetic data </b> <br></span>
+<b> 1. Bayesian network comparisons with applications to order-unknown epigenetic data </b> <br></span>
 <span style="font-size:0.7em;">
 Hongmei Zhang, Xianzheng Huang, <b>Shengtong Han</b>, Faisal I. Rezwan, Wilfried Karmaus, Hasan Arshad, John W. Holloway.<i> submitted</i>.</span>
+
+<span style="font-size:0.9em;"> 
+<b> 2. A nested clustering method to detect and cluster transgenerational DNA methylation sites via beta regression </b> <br></span>
+<span style="font-size:0.7em;">
+Jiajing Wang, Hongmei Zhang, <b> Shengtong Han</b>, Hasan Arshad, Wilfried Karmaus.<i> submitted</i>.</span>
 
 ## Published 
 
