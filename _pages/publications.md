@@ -24,10 +24,6 @@ author_profile: true
 <span style="font-size:0.7em;">
 Hongmei Zhang, Xianzheng Huang, <b>Shengtong Han</b>, Faisal I. Rezwan, Wilfried Karmaus, Hasan Arshad, John W. Holloway.<i> submitted</i>.</span>
 
-<span style="font-size:0.9em;"> 
-<b> 2. A nested clustering method to detect and cluster transgenerational DNA methylation sites via beta regression </b> <br></span>
-<span style="font-size:0.7em;">
-Jiajing Wang, Hongmei Zhang, <b> Shengtong Han</b>, Hasan Arshad, Wilfried Karmaus.<i> submitted</i>.</span>
 
 ### Published 
 
@@ -71,3 +67,7 @@ Bartholomew Leung, Heung Wong, Riquan Zhang, <b>Shengtong Han</b>. <i>Communicat
 
 ## Book Chapters 
 
+<span style="font-size:0.9em;"> 
+<b>  1.   A Nested Clustering Method to Detect and Cluster Transgenerational DNA Methylation Sites Via Beta Regressions  </b> <br></span> 
+<span style="font-size:0.7em;">
+Jiajing Wang, Hongmei Zhang, <b>Shengtong Han</b>. <i> Modern Statistical Methods for Health Research </i>, Springer, 2021 </span> 
