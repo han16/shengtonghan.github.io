@@ -4,7 +4,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Preprint 
+[Google Scholar](https://scholar.google.com/citations?user=xA249R8AAAAJ&hl=en)
+
+## Journal Articles 
+
+### Preprint 
 
 <span style="font-size:0.9em;">
 <b>[A Bayesian method for rare variant analysis using functional annotations and its application to Autism](http://han16.github.io/shengtonghan.github.io/publications/MIRAGE)  </b> <br> </span>
@@ -13,7 +17,7 @@ author_profile: true
 [[bioRxiv]](https://www.biorxiv.org/content/10.1101/828061v1.full.pdf)[[R-package]](https://xinhe-lab.github.io/mirage/)
 </span>
  
-## Submitted/Under revision 
+### Submitted/Under revision 
 
 <span style="font-size:0.9em;"> 
 <b> 1. Bayesian network comparisons with applications to order-unknown epigenetic data </b> <br></span>
@@ -25,9 +29,7 @@ Hongmei Zhang, Xianzheng Huang, <b>Shengtong Han</b>, Faisal I. Rezwan, Wilfried
 <span style="font-size:0.7em;">
 Jiajing Wang, Hongmei Zhang, <b> Shengtong Han</b>, Hasan Arshad, Wilfried Karmaus.<i> submitted</i>.</span>
 
-## Published 
-
-[Google Scholar](https://scholar.google.com/citations?user=xA249R8AAAAJ&hl=en)
+### Published 
 
 <span style="font-size:0.9em;"> 
 \+ co-first authors; \* corresponding author </span>
@@ -66,3 +68,7 @@ Lulu Hu\+, Yuwen Liu\+, <b>Shengtong Han\+</b>, Lei Yang+, Xiaolong Cui, Yawei G
 <b>  7.   Smoothing Spline Estimation for Partially Linear Single-index Models </b> <br></span> 
 <span style="font-size:0.7em;">
 Bartholomew Leung, Heung Wong, Riquan Zhang, <b>Shengtong Han</b>. <i>Communications in Statistics-Simulation and Computation</i>, 2010, 39, 1953-1961. [[PDF]](https://han16.github.io/shengtonghan.github.io/files/singleindexmodel2010.pdf)[[Link]](https://www.tandfonline.com/doi/abs/10.1080/03610918.2010.526735?needAccess=true&journalCode=lssp20) </span> 
+
+
+## Book Chapters 
+
