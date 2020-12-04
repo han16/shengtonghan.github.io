@@ -14,5 +14,5 @@ author_profile: true
 
 ### [Shengtong Han](https://han16.github.io/shengtonghan.github.io//)  
 
-Shengtong earned the Ph.D. in Statistics and completed postdoc training in biostatistics, statistical genetics and genomic. He is interested in statistical machine learning and data science with applications in biostatistics, public health, (epi)genetics and genomics.   
+Shengtong earned the Ph.D. in Statistics and completed postdoc training in biostatistics, statistical genetics and genomics. He is interested in statistical machine learning and data science with applications in biostatistics, public health, (epi)genetics and genomics.   
 
