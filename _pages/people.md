@@ -12,7 +12,7 @@ author_profile: true
 </p>
 
 
-### Shengtong Han 
+### [Shengtong Han](https://han16.github.io/shengtonghan.github.io//)  
 
-Shengtong(https://han16.github.io/shengtonghan.github.io//)  
+Shengtong  
 
