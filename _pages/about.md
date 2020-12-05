@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://han16.github.io/shengtonghan.github.io/images/uwm_zilber_logo.jpg?raw=true" alt="Photo" style="width: 400px;"/> 
+  <img src="https://han16.github.io/shengtonghan.github.io/images/uwm_zilber_logo.jpg?raw=true" alt="Photo" style="width: 500px;"/> 
 </p>
 
 
