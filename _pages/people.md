@@ -19,8 +19,8 @@ Shengtong earned the Ph.D. in Statistics and completed postdoc training in biost
 
 
 <p align="center">
-  <img src="https://han16.github.io/shengtonghan.github.io/images/sophie.jpeg?raw=true" alt="Photo" style="width: 200px;"/> 
+  <img src="https://han16.github.io/shengtonghan.github.io/images/sophie.jpeg?raw=true" alt="Photo" style="width: 150px;"/> 
 </p>
 
 
-### [Sophie Fournier] Undergraduate 
+### [Sophie Fournier](https://han16.github.io/shengtonghan.github.io//people/) Undergraduate 
