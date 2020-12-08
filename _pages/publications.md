@@ -27,7 +27,7 @@ author_profile: true
 \+ co-first authors; \* corresponding author </span>
 
 <span style="font-size:0.9em;"> 
-<b> 1. Bayesian network comparisons with applications to order-unknown epigenetic data </b> <br></span>
+<b> 1. Gaussian Bayesian network comparisons with graph ordering unknown </b> <br></span>
 <span style="font-size:0.7em;">
 Hongmei Zhang, Xianzheng Huang, <b>Shengtong Han</b>, Faisal I. Rezwan, Wilfried Karmaus, Hasan Arshad, John W. Holloway (2020+).<i> Computational Statistics and Data Analysis</i>, accepted.</span>
 
