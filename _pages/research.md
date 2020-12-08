@@ -30,7 +30,7 @@ Graphical models have attracted increasing attentions in computer science, machi
 <span style="font-size:0.9em;"> 
 <b>  Bayesian network comparisons with applications to order-unknown epigenetic data </b> <br></span>
 <span style="font-size:0.7em;">
-Hongmei Zhang, Xianzheng Huang, <b>Shengtong Han</b>, Faisal I. Rezwan, Wilfried Karmaus, Hasan Arshad, John W. Holloway.<i> submitted</i>.</span>
+Hongmei Zhang, Xianzheng Huang, <b>Shengtong Han</b>, Faisal I. Rezwan, Wilfried Karmaus, Hasan Arshad, John W. Holloway (2020+).<i> Computational Statistics and Data Analysis</i>, accepted.</span>
 
 <span style="font-size:0.9em;"> 
 <b>   An efficient Bayesian approach for Gaussian Bayesian network structure learning </b> <br></span> 
