@@ -20,7 +20,9 @@ redirect_from:
 ## Professional
 
 Member, American Statistical Association (ASA)
+
 Member, American Society of Human Genetics (ASHG) 
+
 Member, Autism Sequencing Consortium (ASC)
 
 
