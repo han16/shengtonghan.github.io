@@ -24,9 +24,9 @@ redirect_from:
 <span style="font-size:0.9em;">
 Member, American Statistical Association</span>
 <span style="font-size:0.9em;">  
-Member, American Society of Human Genetic</span>s
+Member, American Society of Human Genetic</span>
 <span style="font-size:0.9em;">
-Member, Autism Sequencing Consortium </span>
+Member, Autism Sequencing Consortium</span>
 
 
 ### Contact
