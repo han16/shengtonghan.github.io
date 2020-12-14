@@ -22,10 +22,12 @@ redirect_from:
 ### Professional 
 
 <span style="font-size:0.9em;">
-Member, American Statistical Association
+Member, American Statistical Association</span>
   
-Member, American Society of Human Genetics
+<span style="font-size:0.9em;">  
+Member, American Society of Human Genetic</span>s
 
+<span style="font-size:0.9em;">
 Member, Autism Sequencing Consortium </span>
 
 
