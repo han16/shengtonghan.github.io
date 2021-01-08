@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 <span style="font-size:0.9em;">
+<b>Jan 2021</b> Congratulations to Sophie for being awarded Support for Undergraduate Research Fellows (SURF) at UW-Milwaukee, well done!  </span> 
+
+
+<span style="font-size:0.9em;">
 <b>Aug 2020</b> Our abstract about a new Bayesian framework for rare variant analysis is accepted for a poster presentation in [American Society of Human Genetics (ASHG) annual conference 2020](https://www.ashg.org/meetings/2020meeting/). </span> 
 
 
