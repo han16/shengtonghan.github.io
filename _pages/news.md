@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <span style="font-size:0.9em;">
-<b>Jan 2021</b> Congratulations to Sophie for being awarded Support for Undergraduate Research Fellows (SURF) at UW-Milwaukee, well done!  </span> 
+<b>Jan 2021</b> Congratulations to [Sophie](https://han16.github.io/shengtonghan.github.io//people/) for being awarded [Support for Undergraduate Research Fellows (SURF)](https://uwm.edu/our/programs/support-for-undergraduate-research-fellows-surf/) at UW-Milwaukee, well done!  </span> 
 
 
 <span style="font-size:0.9em;">
