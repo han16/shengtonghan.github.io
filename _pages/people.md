@@ -27,3 +27,13 @@ Shengtong earned the Ph.D. in Statistics and completed postdoc training in biost
 
 <span style="font-size:0.9em;">
 Sophie is a 3rd year biological sciences major at UWM. She is interested in bioinformatics and developing novel methods for rare variant (RV) association tests. </span> 
+
+
+<p align="center">
+  <img src="https://han16.github.io/shengtonghan.github.io/images/matthew.jpg?raw=true" alt="Photo" style="width: 170px;"/> 
+</p>
+
+### [Matthew John Sanville](https://han16.github.io/shengtonghan.github.io//people/) Graduate student
+
+<span style="font-size:0.9em;">
+Mattew will be a 1st year master's student in the Biostatistics program. His interests are in learning new statistical methods, with applications to all types of biological problems. </span> 
