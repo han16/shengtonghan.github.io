@@ -35,7 +35,7 @@ Hongmei Zhang, Xianzheng Huang, <b>Shengtong Han</b>, Faisal I. Rezwan, Wilfried
 <span style="font-size:0.9em;"> 
  
  <p align="center">
-  <img src="https://han16.github.io/shengtonghan.github.io/images/5hmc distribution.png?raw=true" alt="Photo" style="width: 170px;"/> 
+  <img src="https://han16.github.io/shengtonghan.github.io/images/5hmCdistribution.jpg?raw=true" alt="Photo" style="width: 170px;"/> 
 </p>
  
  <b> 2. Jump-seq: genome-wide capture and amplification of 5hmC sites </b> <br></span> 
