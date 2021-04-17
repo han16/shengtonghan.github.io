@@ -33,7 +33,7 @@ Hongmei Zhang, Xianzheng Huang, <b>Shengtong Han</b>, Faisal I. Rezwan, Wilfried
 
  
  <p align="center">
-  <img src="https://han16.github.io/shengtonghan.github.io/images/5hmCdistribution.jpg?raw=true" alt="Photo" style="width: 170px;"/> 
+  <img src="https://han16.github.io/shengtonghan.github.io/images/5hmCdistribution.jpg?raw=true" alt="Photo" style="width: 270px;"/> 
 </p>
  
  <span style="font-size:0.9em;"> 
