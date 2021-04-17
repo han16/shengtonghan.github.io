@@ -32,14 +32,17 @@ author_profile: true
 Hongmei Zhang, Xianzheng Huang, <b>Shengtong Han</b>, Faisal I. Rezwan, Wilfried Karmaus, Hasan Arshad, John W. Holloway. <i> Computational Statistics and Data Analysis</i>, 2021, 157, 107156. [[PDF]](https://han16.github.io/shengtonghan.github.io/files/Bayesiannetworkcomparison.pdf) [[Link]](https://www.sciencedirect.com/science/article/pii/S0167947320302474) </span>
 
  
- <p align="center">
-  <img src="https://han16.github.io/shengtonghan.github.io/images/5hmCdistribution.jpg?raw=true" alt="Photo" style="width: 370px;"/> 
-</p>
+
  
  <span style="font-size:0.9em;"> 
  <b> 2. Jump-seq: genome-wide capture and amplification of 5hmC sites </b> <br></span> 
 <span style="font-size:0.7em;">
 Lulu Hu\+, Yuwen Liu\+, <b>Shengtong Han\+</b>, Lei Yang+, Xiaolong Cui, Yawei Gao, Qing Dai, Xingyu Lu, Xiaochen Kou, Yanhong Zhao, Wenhui Sheng, Shaorong Gao, Xin He and Chuan He. <i>Journal of American Chemical Society</i>, 2019, 141, 22, 8694-8697. [[PDF]](https://han16.github.io/shengtonghan.github.io/files/jumpseq2019.pdf)[[Link]](https://pubs.acs.org/doi/pdf/10.1021/jacs.9b02512) </span> 
+
+<p align="center">
+  <img src="https://han16.github.io/shengtonghan.github.io/images/5hmCdistribution.jpg?raw=true" alt="Photo" style="width: 370px;"/> 
+</p>
+
 
 <span style="font-size:0.9em;"> 
  <b> 3.  The nested joint clustering via Dirichlet process mixture model </b> <br></span> 
