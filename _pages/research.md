@@ -4,8 +4,18 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+
+## Methodology  
+
 <span style="font-size:0.8em;">
-Trained as a statistician, I have long standing interest in statistical methodology development for graphical models, either directed graphs, e.g. directed acyclic graphs (DAG) or undirected graphs, e.g. Gaussian graphical models  as they serve a compact and elegant way to decode and visualize complex relations among random variables and thus generate wide applications in many fields, such as social network, biological pathway analysis and Gaussian Copula graphical model in financial market. Most applications center around graphical models. I am also generally interested in developing novel statistical methods(frequentist approach or Bayesian method) driven by problems arising in biostatistics, public health, (epi)genetics and genomics.</span>     
+Trained as a statistician, I have long standing interest in statistical methodology development for graphical models, either directed graphs, e.g. directed acyclic graphs (DAG) or undirected graphs, e.g. Gaussian graphical models  as they serve a compact and elegant way to decode and visualize complex relations among random variables and thus generate wide applications in many fields, such as social network, biological pathway analysis and Gaussian Copula graphical model in financial market. Most applications center around graphical models. I am also generally interested in developing novel statistical methods(frequentist approach or Bayesian method) driven by problems arising in biostatistics, public health, (epi)genetics and genomics.</span>    
+
+## Collaboration
+
+<span style="font-size:0.8em;">
+I am passionate about interdisciplinary research by providing data analysis, statistical consulting, etc, collaborating with researchers from diverse background. Anyone who needs statistical analysis help are welcome to contact me.        
+  
+
 
 
 ## Graphical models and network analysis 
