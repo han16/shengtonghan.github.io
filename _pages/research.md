@@ -13,7 +13,7 @@ Trained as a statistician, I have long standing interest in statistical methodol
 ## Collaboration
 
 <span style="font-size:0.8em;">
-I am passionate about inter-disciplinary research by providing data analysis, statistical consulting, etc, collaborating with researchers from diverse background. Anyone who need statistical analysis help are welcome to contact me.        
+I am passionate about inter-disciplinary research by providing data analysis, statistical consulting, etc, collaborating with researchers from diverse background. People who need statistical analysis help are welcome to contact me.        
   
 
 
