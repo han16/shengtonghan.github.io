@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <span style="font-size:0.9em;">
-<b>May 2021</b> Congras to [Sophie](https://han16.github.io/shengtonghan.github.io//people/) for being awarded [SURF](https://uwm.edu/our/programs/support-for-undergraduate-research-fellows-surf/) again for this summer. Thanks to UWM for generous support to help students succeed!  </span> 
+<b>May 2021</b> Congras to [Sophie](https://han16.github.io/shengtonghan.github.io//people/) for being awarded [SURF](https://uwm.edu/our/programs/support-for-undergraduate-research-fellows-surf/) again for this summer. Thanks to UWM for generous support to constantly help students succeed!  </span> 
 
 <span style="font-size:0.9em;">
 <b>Jan 2021</b> Congratulations to [Sophie](https://han16.github.io/shengtonghan.github.io//people/) for being awarded [Support for Undergraduate Research Fellows (SURF)](https://uwm.edu/our/programs/support-for-undergraduate-research-fellows-surf/) at UW-Milwaukee, well done!  </span> 
