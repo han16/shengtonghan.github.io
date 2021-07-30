@@ -17,6 +17,10 @@ author_profile: true
 [[bioRxiv]](https://www.biorxiv.org/content/10.1101/828061v1.full.pdf)[[R-package]](https://xinhe-lab.github.io/mirage/)
 </span>
  
+ <p align="center">
+  <img src="https://han16.github.io/shengtonghan.github.io/images/mirage_top_constraint_gene_analysis.png?raw=true" alt="Photo" style="width: 470px;"/> 
+</p>
+ 
 ### Submitted/Under revision 
 
 
