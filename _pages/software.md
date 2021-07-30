@@ -5,6 +5,10 @@ permalink: /software/
 author_profile: true
 ---
 
+### GEARS: an R package for  <ins> G</ins> aussian differ<ins>E</ins>nti<ins>A</ins>l netwo<ins>R</ins>k analysi<ins>S</ins>
+
+
+
 
 ### MIRAGE: an R package for <ins>MI</ins>xture model based <ins>R</ins>are variant <ins>A</ins>nalysis on <ins>GE</ins>nes
 
