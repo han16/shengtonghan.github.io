@@ -5,7 +5,7 @@ permalink: /software/
 author_profile: true
 ---
 
-### GEARS: an R package for  <ins> G</ins> aussian differ<ins>E</ins>nti<ins>A</ins>l netwo<ins>R</ins>k analysi<ins>S</ins>
+### GEARS: an R package for  <ins>G</ins>aussian differ<ins>E</ins>nti<ins>A</ins>l netwo<ins>R</ins>k analysi<ins>S</ins>
 
 
 
