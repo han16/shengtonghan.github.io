@@ -33,7 +33,7 @@ author_profile: true
 <span style="font-size:0.9em;"> 
 <b> 1. Gaussian Bayesian network comparisons with graph ordering unknown </b> <br></span>
 <span style="font-size:0.7em;">
-Hongmei Zhang, Xianzheng Huang, <b>Shengtong Han</b>, Faisal I. Rezwan, Wilfried Karmaus, Hasan Arshad, John W. Holloway. <i> Computational Statistics and Data Analysis</i>, 2021, 157, 107156. [[PDF]](https://han16.github.io/shengtonghan.github.io/files/Bayesiannetworkcomparison.pdf) [[Link]](https://www.sciencedirect.com/science/article/pii/S0167947320302474)[[R-package]](https://github.com/han16/GEARS) </span>
+Hongmei Zhang, Xianzheng Huang, <b>Shengtong Han</b>, Faisal I. Rezwan, Wilfried Karmaus, Hasan Arshad, John W. Holloway. <i> Computational Statistics and Data Analysis</i>, 2021, 157, 107156. [[PDF]](https://han16.github.io/shengtonghan.github.io/files/Bayesiannetworkcomparison.pdf) [[Link]](https://www.sciencedirect.com/science/article/pii/S0167947320302474)[[R-package]](https://han16.github.io/shengtonghan.github.io//software/) </span>
 
  
 
