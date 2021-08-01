@@ -11,7 +11,7 @@ author_profile: true
   <img src="https://han16.github.io/shengtonghan.github.io/images/gears.png?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
-GEARS is a Bayesian approach to reconstruct Gaussian Bayesian network and compare two networks (identical or differential) with graph ordering unknown.[[read more]](https://github.com/han16/GEARS)
+GEARS, now under construction  is a Bayesian approach to reconstruct Gaussian Bayesian network and compare two networks (identical or differential) with graph ordering unknown. [[read more]](https://github.com/han16/GEARS)
 
 ### MIRAGE: an R package for <ins>MI</ins>xture model based <ins>R</ins>are variant <ins>A</ins>nalysis on <ins>GE</ins>nes
 
