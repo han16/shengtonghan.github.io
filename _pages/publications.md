@@ -84,4 +84,4 @@ Bartholomew Leung, Heung Wong, Riquan Zhang, <b>Shengtong Han</b>. <i>Communicat
 <span style="font-size:0.9em;"> 
 <b>  1.   A Nested Clustering Method to Detect and Cluster Transgenerational DNA Methylation Sites Via Beta Regressions  </b> <br></span> 
 <span style="font-size:0.7em;">
-Jiajing Wang, Hongmei Zhang, <b>Shengtong Han</b>. <i> Modern Statistical Methods for Health Research</i>, Springer, 2021 </span> 
+Jiajing Wang, Hongmei Zhang, <b>Shengtong Han</b>. <i> Modern Statistical Methods for Health Research</i>, Springer, 2021. [[Link]](https://link.springer.com/chapter/10.1007/978-3-030-72437-5_20) </span> 
