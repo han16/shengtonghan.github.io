@@ -4,6 +4,10 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+<span style="font-size:0.9em;">
+<b>Nov 2021</b> Shengtong was awarded UW-Milwaukee research assistance fund to conduct reseach.   </span> 
+
+
 
 <span style="font-size:0.9em;">
 <b>May 2021</b> Congras to [Sophie](https://han16.github.io/shengtonghan.github.io//people/) for being awarded [SURF](https://uwm.edu/our/programs/support-for-undergraduate-research-fellows-surf/) again for this summer. Thanks to UWM for generous support to constantly help students succeed!  </span> 
