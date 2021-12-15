@@ -23,7 +23,7 @@ Shengtong earned the Ph.D. in Statistics and completed postdoc training in biost
 </p>
 
 
-### [Sophie Fournier](https://han16.github.io/shengtonghan.github.io//people/) Undergraduate student
+### [Sophie Fournier](https://han16.github.io/shengtonghan.github.io//people/) Undergraduate student (Oct 2020-Dec 2021)
 
 <span style="font-size:0.9em;">
 Sophie is a 3rd year biological sciences major at UWM. She is interested in bioinformatics and developing novel methods for rare variant (RV) association tests. </span> 
