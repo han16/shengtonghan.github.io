@@ -4,6 +4,13 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+
+<span style="font-size:0.9em;">
+<b>Dec 2021</b> Sophie graduated in UW-Milwaukee with a B.S. in Biology. Congrats.    </span> 
+
+
+
+
 <span style="font-size:0.9em;">
 <b>Nov 2021</b> Shengtong was awarded UW-Milwaukee research assistance fund to conduct research.   </span> 
 
