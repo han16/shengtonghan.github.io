@@ -5,10 +5,13 @@ permalink: /news/
 author_profile: true
 ---
 
+
+<span style="font-size:0.9em;">
+<b>Jan 2022</b> Shengtong joined Marquette university school of dentistry as a biostatistician to work on exciting interdisciplinary research.   </span>
+
 <span style="font-size:0.9em;">
 <b>Dec 2021</b> Sophie graduated in UW-Milwaukee with a B.S. in Biology. Congrats.    </span> 
-
-
+ 
 
 
 <span style="font-size:0.9em;">
