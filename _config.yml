@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shengtong"
 title_separator          : "-"
 name                     : &name "Shengtong"
-description              : &description "University of Wisconsin, Milwaukee"
+description              : &description "Marquette University, Milwaukee"
 url                      : https://han16.github.io/shengtonghan.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "han16/shengtonghan.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr. Shengtong Han"
   avatar           : "head shot.jpg"
-  bio              : "University of Wisconsin, Milwaukee"
+  bio              : "Marquette University, Milwaukee"
   location         : "Milwaukee, WI"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov"
