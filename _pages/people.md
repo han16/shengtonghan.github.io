@@ -8,7 +8,7 @@ author_profile: true
 
 
 <p align="center">
-  <img src="https://han16.github.io/shengtonghan.github.io/images/head shot.jpg?raw=true" alt="Photo" style="width: 200px;"/> 
+  <img src="https://han16.github.io/shengtonghan.github.io/images/headshot_uwm.jpg?raw=true" alt="Photo" style="width: 200px;"/> 
 </p>
 
 
