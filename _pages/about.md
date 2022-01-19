@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://han16.github.io/shengtonghan.github.io/images/MU-dental.png?raw=true" alt="Photo" style="width: 500px;"/> 
+  <img src="https://han16.github.io/shengtonghan.github.io/images/MU-dental.png?raw=true" alt="Photo" style="width: 300px;"/> 
 </p>
 
 
