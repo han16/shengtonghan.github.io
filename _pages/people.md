@@ -33,7 +33,7 @@ Sophie is a 3rd year biological sciences major at UWM. She is interested in bioi
   <img src="https://han16.github.io/shengtonghan.github.io/images/matthew.jpg?raw=true" alt="Photo" style="width: 170px;"/> 
 </p>
 
-### [Matthew John Sanville](https://han16.github.io/shengtonghan.github.io//people/) Graduate student
+### [Matthew John Sanville](https://han16.github.io/shengtonghan.github.io//people/) Graduate student (Aug 2021-Jan 2022)
 
 <span style="font-size:0.9em;">
 Matthew will be a 1st year master's student in the Biostatistics program. His interests are in learning new statistical methods, with applications to all types of biological problems. </span> 
