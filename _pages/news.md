@@ -7,7 +7,7 @@ author_profile: true
 
 
 <span style="font-size:0.9em;">
-<b>Mar 2022</b> Thanks to [Marquette Autism Intiative](https://www.marquette.edu/autism-initiative/) group, Shengtong becomes part of it to do autism  research.   </span>
+<b>Mar 2022</b> Thanks to [Marquette Autism Initiative](https://www.marquette.edu/autism-initiative/) group, Shengtong becomes part of it to do autism  research.   </span>
 
 <span style="font-size:0.9em;">
 <b>Jan 2022</b> Shengtong joined Marquette university school of dentistry as a biostatistician to work on exciting interdisciplinary research.   </span>
