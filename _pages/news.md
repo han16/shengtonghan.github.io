@@ -7,6 +7,9 @@ author_profile: true
 
 
 <span style="font-size:0.9em;">
+<b>May 2022</b> Shengtong was selected to participate Marquette Summer Research Institute (SRI), 2022 to develop new skills, expand knowledge to boost  research success.   </span>
+
+<span style="font-size:0.9em;">
 <b>Mar 2022</b> Thanks to [Marquette Autism Initiative](https://www.marquette.edu/autism-initiative/) group, Shengtong becomes part of it to do autism  research.   </span>
 
 <span style="font-size:0.9em;">
