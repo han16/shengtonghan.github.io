@@ -5,6 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
+* Marquette University School of Dentistry 
+  * DENT 6002 Sec 110 An introduction to Biostatistics
+
 * University of Wisconsin, Milwaukee, WI
   * PH 702 An introduction to Biostatistics  
   * PH 711 Intermediate Biostatistics 
