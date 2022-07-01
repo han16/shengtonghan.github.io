@@ -13,10 +13,8 @@ Trained as a statistician, I have long standing interest in statistical methodol
 <ins>Collaboration </ins>
 
 <span style="font-size:0.8em;">
-I am passionate about inter-disciplinary research by providing data analysis, statistical consulting, etc, collaborating with researchers from diverse background. People who need statistical analysis help are welcome to contact me.        
+  As a Biostatistician in our dental school, I am excited to work with faculties, residents and students to support their projects, thesis, etc by providing statistical analysis and consulting. I am also collaborating with researchers on Marquette campus and beyond in data science, public health and statistical genetics.         
   
-
-
 
 ## Graphical models and network analysis 
 
