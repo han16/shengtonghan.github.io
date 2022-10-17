@@ -19,16 +19,9 @@ redirect_from:
 
 
 
-### Professional 
-
-<span style="font-size:0.9em;">
-Member, American Statistical Association<br>
-Member, American Society of Human Genetics<br>
-Member, Autism Sequencing Consortium</span>
-
 
 ### Contact
 
-<span style="font-size:0.7em;"> Marquette University School of Dentistry<br> 
+<span style="font-size:0.9em;"> Marquette University School of Dentistry<br> 
 Milwaukee, WI  53201<br>
 Email: shengtonghan@gmail.com</span>
