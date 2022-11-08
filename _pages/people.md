@@ -20,7 +20,7 @@ Shengtong earned the Ph.D. in Statistics and completed postdoc training in biost
 
 
 <p align="center">
-  <img src="https://han16.github.io/shengtonghan.github.io/images/edward.jpeg?raw=true" alt="Photo" style="width: 170px;"/> 
+  <img src="https://han16.github.io/shengtonghan.github.io/images/edward.jpg?raw=true" alt="Photo" style="width: 170px;"/> 
 </p>
 
 
