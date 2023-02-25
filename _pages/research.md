@@ -27,13 +27,6 @@ Trained as a statistician, I have long standing interest in statistical methodol
 <span style="font-size:0.8em;">
 Graphical models have attracted increasing attentions in computer science, machine learning and artificial intelligence. One challenging problem is developing computationally efficient algorithms with nice statistical property to infer graph structure which allows one to identity conditional (in)dependence relations among variables. The computing burden is even more severe for directed graphs as directionality brings complexity in. We are developing novel statistically robust and computationally efficient machine learning algorithms to address these challenges.        </span> 
 
-### Collaborators
-<span style="font-size:0.8em;"> 
-[Han Liu](http://magics.cs.northwestern.edu/people.html), Department of Computer Science and Statistics, Northwestern University, Evanston, IL.<br></span> 
-<span style="font-size:0.8em;"> 
- [Hongmei Zhang](https://www.memphis.edu/sph/contact/faculty_profiles/zhang.php), School of Public Health, University of Memphis, TN.<br></span>
-
-### Papers 
 
 <span style="font-size:0.9em;"> 
 <b>  Gaussian Bayesian network comparisons with graph ordering unknown </b> <br></span>
@@ -60,16 +53,7 @@ Hongmei Zhang, Xianzheng Huang, <b>Shengtong Han</b>, Faisal I. Rezwan, Wilfried
 <span style="font-size:0.8em;">
 Rare variants (RV) are believed to have large effect size and have the potential to explain missing heritability in human complex traits such as autism.  Rare variant association tests tend to be underpowered due to low allele frequency and simple pooling of variants with heterogeneous effect size, e.g. LoF variants tend to be more deleterious than missense variants. We are developing a  Bayesian framework to boost the statistical power by accounting for heterogeneous effect size in different variant groups defined based on numerous functional annotations, such as Polyphen, CADD score and apply the method to study the genetics of human complex diseases, such as Autism Spectrum Disorders (ASD) and Alzheimer's diseases (AD).              </span> 
 
-### Collaborators
-<span style="font-size:0.8em;">  
-[Xin lab](http://xinhelab.org), Department of Human Genetics, University of Chicago, IL.</span>
-<span style="font-size:0.8em;">   
-[Gao Wang](https://www.tigerwang.org), Department of Neurology, Columbia University, NY.</span>
-<span style="font-size:0.8em;">   
-[Autism Sequencing Consortium (ASC)](https://genome.emory.edu/ASC/)</span>
 
-
-### Papers
 
 <span style="font-size:0.9em;">
 <b>[A Bayesian method for rare variant analysis using functional annotations and its application to Autism](http://han16.github.io/shengtonghan.github.io/publications/MIRAGE)  </b> <br> </span>
