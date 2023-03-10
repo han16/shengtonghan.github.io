@@ -32,8 +32,8 @@ author_profile: true
 
 <span style="font-size:0.9em;"> 
 <b> 9. An in-vitro Analysis of the Accuracy of different Guided Surgery Systems – They are not all the same </b> <br></span>
-<span style="font-size:0.7em;">
- Guentsch, A., Bjork, J., Saxe, R., <b> Han, S. </b> and Dentino, A.R. (2023), An in-vitro Analysis of the Accuracy of different Guided Surgery Systems – They are not all the same. <i> Clin Oral Impl Res. </i> [[Link]](https://onlinelibrary.wiley.com/doi/abs/10.1111/clr.14061)) </span>
+<span style="font-size:0.9em;">
+ Guentsch, A., Bjork, J., Saxe, R., <b> Han, S. </b> and Dentino, A.R. (2023), An in-vitro Analysis of the Accuracy of different Guided Surgery Systems – They are not all the same. <i> Clin Oral Impl Res. </i> [[Link]](https://onlinelibrary.wiley.com/doi/abs/10.1111/clr.14061) </span>
 
 
 <span style="font-size:0.9em;"> 
