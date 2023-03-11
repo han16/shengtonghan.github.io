@@ -31,7 +31,7 @@ author_profile: true
 \+ co-first authors; \* corresponding author </span>
 
 <span style="font-size:1em;">
-<b> 9. </b> <br>  Guentsch, A., Bjork, J., Saxe, R., <b> Han, S. </b> and Dentino, A.R. (2023), <b> An in-vitro Analysis of the Accuracy of different Guided Surgery Systems – They are not all the same </b>. <i> Clin Oral Impl Res. </i> [[Link]](https://onlinelibrary.wiley.com/doi/abs/10.1111/clr.14061) </span>
+<b> 9. </b>   Guentsch, A., Bjork, J., Saxe, R., <b> Han, S. </b> and Dentino, A.R. (2023), <b> An in-vitro Analysis of the Accuracy of different Guided Surgery Systems – They are not all the same </b>. <i> Clin Oral Impl Res. </i> [[Link]](https://onlinelibrary.wiley.com/doi/abs/10.1111/clr.14061) </span>
 
 
 <span style="font-size:1em;"> 
