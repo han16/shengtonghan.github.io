@@ -32,8 +32,8 @@ author_profile: true
 \+ co-first authors; \* corresponding author </span>
 
 <span style="font-size:1em;">
-<b> 10. </b>   Katherine C. Schacherl, Andrew Dentino, John A. Schacherl, Ralph Gallo, Shengtong
-Han, Kathleen Knipfer </b> and Dentino, A.R. (2023+), <b> Unstable Periodontal Disease and its Association with Sleep-Disordered Breathing (SDB) </b>. <i> Accepted. </i> </span>
+<b> 10. </b>   Katherine C. Schacherl, Andrew Dentino, John A. Schacherl, Ralph Gallo, <b> Shengtong
+Han </b>, Kathleen Knipfer </b> and Dentino, A.R. (2023+), <b> Unstable Periodontal Disease and its Association with Sleep-Disordered Breathing (SDB) </b>. <i> Accepted. </i> </span>
 
 
 
