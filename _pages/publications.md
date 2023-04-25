@@ -32,6 +32,11 @@ author_profile: true
 \+ co-first authors; \* corresponding author </span>
 
 <span style="font-size:1em;">
+<b> 10. </b>   Katherine C. Schacherl, Andrew Dentino, John A. Schacherl, Ralph Gallo, Shengtong
+Han, Kathleen Knipfer </b> and Dentino, A.R. (2023+), <b> Unstable Periodontal Disease and its Association with Sleep-Disordered Breathing (SDB) </b>. <i> Accepted. </i> </span>
+
+
+<span style="font-size:1em;">
 <b> 9. </b>   Guentsch, A., Bjork, J., Saxe, R., <b> Han, S. </b> and Dentino, A.R. (2023), <b> An in-vitro Analysis of the Accuracy of different Guided Surgery Systems – They are not all the same </b>. <i> Clin Oral Impl Res. </i> [[Link]](https://onlinelibrary.wiley.com/doi/abs/10.1111/clr.14061) </span>
 
 
