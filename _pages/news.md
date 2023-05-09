@@ -7,6 +7,10 @@ author_profile: true
 
 
 <span style="font-size:1.0em;">
+<b>Apr 2023</b> Our team K M Sajjadul Islam, Marquette, Jiawei Wu, Marquette, co-mentored with Dr. Swapnil Tripathi, UWM, won 2nd place in [inaugural Hack for Health](https://innv.northwesternmutual.com/blog/nmdsi-s-inaugural-hack-for-health-explores-the-impact-of-sleep-apnea-on-cancer), with the topic, Obstructive Sleep Apnea and its Impact on Risk of Cancer  </span>
+
+
+<span style="font-size:1.0em;">
 <b>May 2022</b> Shengtong was selected to participate Marquette Summer Research Institute (SRI), 2022 to develop new skills, expand knowledge to boost  research success.   </span>
 
 <span style="font-size:1.0em;">
