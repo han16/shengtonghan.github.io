@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-[Google Scholar](https://scholar.google.com/citations?user=xA249R8AAAAJ&hl=en)
 
 ## Journal Articles 
 
