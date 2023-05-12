@@ -25,3 +25,9 @@ redirect_from:
 <span style="font-size:0.9em;"> Marquette University School of Dentistry<br> 
 Milwaukee, WI  53201<br>
 Email: shengtonghan@gmail.com</span>
+
+<!-- Calendly link widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/shengtonghan/30min'});return false;">Booking with me</a>
+<!-- Calendly link widget end -->
