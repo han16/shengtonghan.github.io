@@ -15,14 +15,14 @@ redirect_from:
 
 ##  About me 
 
-<span style="font-size:0.9em;">  Shengtong is an Assistant Professor of Biostatistics in [Marquette University School of Dentistry](https://www.marquette.edu/dentistry/), Milwaukee, WI. Previously, he was a faculty in Biostatistics at University of Wisconsin, Milwaukee and postdoc in statistical genetics and genomics at  [xin's lab](http://xinhelab.org) at University of Chicago, Chicago, IL. </span>
+<span style="font-size:1.0em;">  Shengtong is an Assistant Professor of Biostatistics in [Marquette University School of Dentistry](https://www.marquette.edu/dentistry/), Milwaukee, WI. Previously, he was a faculty in Biostatistics at University of Wisconsin, Milwaukee and postdoc in statistical genetics and genomics at  [xin's lab](http://xinhelab.org) at University of Chicago, Chicago, IL. </span>
 
 
 
 
 ### Contact
 
-<span style="font-size:0.9em;"> Marquette University School of Dentistry<br> 
+<span style="font-size:1.0em;"> Marquette University School of Dentistry<br> 
 Milwaukee, WI  53201<br>
 Email: shengtonghan@gmail.com</span>
 
