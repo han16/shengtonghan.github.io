@@ -31,6 +31,10 @@ author_profile: true
 \+ co-first authors; \* corresponding author </span>
 
 <span style="font-size:1em;">
+<b> 11. </b>   Manal Hamdan, Zaid Badr, Jennifer Bjork, Reagan Saxe, Francesca Malensek, Caroline Miller, Rakhi Shah, <b >Shengtong Han </b>, Hossein Mohammad-Rahimi. (2023), <b> Detection of dental restorations using no-code artificial intelligence </b>. <i> Journal of Dentistry </i> . 2023,
+104768, ISSN 0300-5712, https://doi.org/10.1016/j.jdent.2023.104768 [[link]](https://www.sciencedirect.com/science/article/pii/S0300571223003548) </span>
+
+<span style="font-size:1em;">
 <b> 10. </b>   Katherine C. Schacherl, Andrew Dentino, John A. Schacherl, Ralph Gallo, <b> Shengtong
 Han </b>, Kathleen Knipfer. (2023+), <b> Unstable Periodontal Disease and its Association with Sleep-Disordered Breathing (SDB) </b>. <i> Accepted. </i> </span>
 
