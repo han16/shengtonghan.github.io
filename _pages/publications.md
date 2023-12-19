@@ -32,7 +32,7 @@ author_profile: true
 
 <span style="font-size:1em;">
 <b> 12. </b>   Zaid Badr, Manal Hamdan, <b> Shengtong Han </b>, 
-Taiseer A Sulaiman. (2023+), <b> Effect of surface finish and resin cement on the bond strength to CAD/CAM ceramics for interim resin-bonded prostheses </b>. <i> Accepted in Journal of Prosthetic Dentistry </i>  </span>
+Taiseer A Sulaiman. (2023+), <b> Effect of surface finish and resin cement on the bond strength to CAD/CAM ceramics for interim resin-bonded prostheses </b>. <i> Accepted. </i>  </span>
 
 <span style="font-size:1em;">
 <b> 11. </b>   Manal Hamdan, Zaid Badr, Jennifer Bjork, Reagan Saxe, Francesca Malensek, Caroline Miller, Rakhi Shah, <b >Shengtong Han </b>, Hossein Mohammad-Rahimi. (2023), <b> Detection of dental restorations using no-code artificial intelligence </b>. <i> Journal of Dentistry </i> . 2023,
