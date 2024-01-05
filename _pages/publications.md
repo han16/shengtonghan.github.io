@@ -31,7 +31,7 @@ author_profile: true
 \+ co-first authors; \* corresponding author </span>
 
 <span style="font-size:1em;">
-<b> 13. </b>  Kinan M. Al-Bitar, Jeffrey M. Garcia, <b> Shengtong Han  Arndt Guentsch </b>, <b> Association between periodontal health status and quality of life: a cross-sectional study </b>. <i> Accepted. </i> [[link]]([https://www.thejpd.org/article/S0022-3913(23)00823-5/fulltext](https://www.frontiersin.org/articles/10.3389/froh.2024.1346814/abstract)) </span>  
+<b> 13. </b>  Kinan M. Al-Bitar, Jeffrey M. Garcia, <b> Shengtong Han </b>  Arndt Guentsch, <b> Association between periodontal health status and quality of life: a cross-sectional study </b>. <i> Accepted. </i> [[link]]([https://www.thejpd.org/article/S0022-3913(23)00823-5/fulltext](https://www.frontiersin.org/articles/10.3389/froh.2024.1346814/abstract)) </span>  
 
 
 <span style="font-size:1em;">
