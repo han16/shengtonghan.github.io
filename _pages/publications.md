@@ -44,12 +44,12 @@ Taiseer A Sulaiman. (2023+), <b> Effect of surface finish and resin cement on th
 
 <span style="font-size:1em;">
 <b> 10. </b>   Katherine C. Schacherl, <b> Shengtong
-Han </b>, John A. Schacherl, Andrew Dentino. (2024), <b> Unstable Periodontal Disease and its Association with Sleep-Disordered Breathing (SDB) </b>. <i> Gen Dent. 2024 Jan-Feb;72(1):16-25. PMID: 38117637. </i> [[link]](https://pubmed.ncbi.nlm.nih.gov/38117637/#:~:text=This%20clinical%20study%20found%20a,patients%20with%20unresolved%20periodontal%20disease.) </span>
+Han </b>, John A. Schacherl, Andrew Dentino. (2024), <b> Unstable Periodontal Disease and its Association with Sleep-Disordered Breathing (SDB) </b>. <i> Gen Dent. </i> 2024 Jan-Feb;72(1):16-25. PMID: 38117637. [[link]](https://pubmed.ncbi.nlm.nih.gov/38117637/#:~:text=This%20clinical%20study%20found%20a,patients%20with%20unresolved%20periodontal%20disease.) </span>
 
 
 
 <span style="font-size:1em;">
-<b> 9. </b>   Guentsch, A., Bjork, J., Saxe, R., <b> Han, S. </b> and Dentino, A.R. (2023), <b> An in-vitro Analysis of the Accuracy of different Guided Surgery Systems – They are not all the same </b>. <i> Clin Oral Impl Res. </i> [[Link]](https://onlinelibrary.wiley.com/doi/abs/10.1111/clr.14061) </span>
+<b> 9. </b>   Guentsch, A., Bjork, J., Saxe, R., <b> Han, S. </b> and Dentino, A.R. (2023), <b> An in-vitro Analysis of the Accuracy of different Guided Surgery Systems – They are not all the same </b>. <i> Clin Oral Impl Res. </i> 2023 May;34(5):531-541. doi: 10.1111/clr.14061. Epub 2023 Mar 17. PMID: 36892499. [[Link]](https://onlinelibrary.wiley.com/doi/abs/10.1111/clr.14061) </span>
 
 
 <span style="font-size:1em;"> 
