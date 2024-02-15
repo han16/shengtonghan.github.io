@@ -31,12 +31,13 @@ author_profile: true
 \+ co-first authors; \* corresponding author </span>
 
 <span style="font-size:1em;">
-<b> 13. </b>  Kinan M. Al-Bitar, Jeffrey M. Garcia, <b> Shengtong Han </b>,  Arndt Guentsch, <b> Association between periodontal health status and quality of life: a cross-sectional study </b>. <i> Accepted. </i> [[link]](https://www.frontiersin.org/articles/10.3389/froh.2024.1346814/abstract) </span>  
+<b> 13. </b> Al-Bitar KM, Garcia JM, <b> Han S </b> , Guentsch A. <b> Association between periodontal health status and quality of life: a cross-sectional study. </b> <i> Front Oral Health. </i> 2024 Jan 25;5:1346814. doi: 10.3389/froh.2024.1346814. PMID: 38333564; PMCID: PMC10850382. [[link]](https://www.frontiersin.org/articles/10.3389/froh.2024.1346814/abstract) </span> 
+  
 
 
 <span style="font-size:1em;">
 <b> 12. </b>   Zaid Badr, Manal Hamdan, <b> Shengtong Han </b>, 
-Taiseer A Sulaiman. (2023+), <b> Effect of surface finish and resin cement on the bond strength to CAD/CAM ceramics for interim resin-bonded prostheses </b>. <i> Accepted. </i> [[link]](https://www.thejpd.org/article/S0022-3913(23)00823-5/fulltext) </span>  
+Taiseer A Sulaiman. (2023+), <b> Effect of surface finish and resin cement on the bond strength to CAD/CAM ceramics for interim resin-bonded prostheses </b>. <i> The Journal of Prosthetic Dentistry, </i> 2024, ISSN 0022-3913, https://doi.org/10.1016/j.prosdent.2023.12.006. [[link]]([https://www.thejpd.org/article/S0022-3913(23)00823-5/fulltext](https://www.sciencedirect.com/science/article/pii/S0022391323008235)) </span>  
 
 <span style="font-size:1em;">
 <b> 11. </b>   Manal Hamdan, Zaid Badr, Jennifer Bjork, Reagan Saxe, Francesca Malensek, Caroline Miller, Rakhi Shah, <b >Shengtong Han </b>, Hossein Mohammad-Rahimi. (2023), <b> Detection of dental restorations using no-code artificial intelligence </b>. <i> Journal of Dentistry </i> . 2023,
