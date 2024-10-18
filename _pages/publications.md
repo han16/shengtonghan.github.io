@@ -8,27 +8,16 @@ author_profile: true
 
 ## Journal Articles 
 
-### Preprint 
-
-<span style="font-size:1.0em;">
-<b>[A Bayesian method for rare variant analysis using functional annotations and its application to Autism](http://han16.github.io/shengtonghan.github.io/publications/MIRAGE)  </b> <br> </span>
-<span style="font-size:1em;">
- <b>Shengtong Han</b>, Nicholas Knoblauch, Gao Wang, Siming Zhao, Yuwen Liu, Yubin Xie, Wenhui Sheng, Hoang T Nguyen, Xin He. 
-[[bioRxiv]](https://www.biorxiv.org/content/10.1101/828061v1.full.pdf)[[R-package]](https://xinhe-lab.github.io/mirage/)
-</span>
- 
- <p align="center">
-  <img src="https://han16.github.io/shengtonghan.github.io/images/mirage_top_constraint_gene_analysis.png?raw=true" alt="Photo" style="width: 470px;"/> 
-</p>
- 
-### Submitted/Under revision 
-
-
-
-### Published 
 
 <span style="font-size:1em;"> 
 \+ co-first authors; \* corresponding author </span>
+
+<span style="font-size:1em;">
+<b> 15. </b>   <b> Han, S </b>,  <b>
+Bayesian Rare Variant Analysis Identifies Novel Schizophrenia Putative Risk Genes, </b> <i>
+J. Pers. Med, </i> 2024, 14, 822. https://doi.org/10.3390/jpm14080822. [[link]](https://www.mdpi.com/2075-4426/14/8/822) </span> 
+
+
 
 
 <span style="font-size:1em;">
