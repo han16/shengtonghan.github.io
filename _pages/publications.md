@@ -13,6 +13,12 @@ author_profile: true
 \+ co-first authors; \* corresponding author </span>
 
 
+<span style="font-size:1em;">
+<b> 16. </b> Gonzalez C, Badr Z, Güngör HC,  <b> Han, S </b>, Hamdan MD.  <b>
+Identifying primary proximal caries lesions in pediatric patients from bitewing radiographs using artificial intelligence. </b> <i>
+Pediatr Dent, </i> 2024:46(5). [[link]]([https://www.mdpi.com/2075-4426/14/8/822](https://www.ingentaconnect.com/contentone/aapd/pd/2024/00000046/00000005/art00008#expand/collapse)) </span> 
+
+
 
 
 <span style="font-size:1em;">
