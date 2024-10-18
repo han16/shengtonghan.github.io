@@ -12,8 +12,11 @@ author_profile: true
 <span style="font-size:1em;"> 
 \+ co-first authors; \* corresponding author </span>
 
+
+
+
 <span style="font-size:1em;">
-<b> 15. </b>   <b> Han, S </b>,  <b>
+<b> 15. </b>   <b> Han, S\* </b>.  <b>
 Bayesian Rare Variant Analysis Identifies Novel Schizophrenia Putative Risk Genes, </b> <i>
 J. Pers. Med, </i> 2024, 14, 822. https://doi.org/10.3390/jpm14080822. [[link]](https://www.mdpi.com/2075-4426/14/8/822) </span> 
 
