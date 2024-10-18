@@ -44,7 +44,7 @@ Taiseer A Sulaiman. <b> Effect of surface finish and resin cement on the bond st
 
 <span style="font-size:1em;">
 <b> 10. </b>   Katherine C. Schacherl, <b> Shengtong
-Han </b>, John A. Schacherl, Andrew Dentino. (2024), <b> Unstable Periodontal Disease and its Association with Sleep-Disordered Breathing (SDB) </b>. <i> Gen Dent. </i> 2024 Jan-Feb;72(1):16-25. PMID: 38117637. [[link]](https://pubmed.ncbi.nlm.nih.gov/38117637/#:~:text=This%20clinical%20study%20found%20a,patients%20with%20unresolved%20periodontal%20disease.) </span>
+Han </b>, John A. Schacherl, Andrew Dentino. (2024), <b> Unstable Periodontal Disease and its Association with Sleep-Disordered Breathing (SDB) </b>. <i> Gen Dent. </i> 2024 Jan-Feb;72(1):16-25. PMID: 38117637. [[link]](https://pubmed.ncbi.nlm.nih.gov/38117637/#:~:text=This%20clinical%20study%20found%20a,patients%20with%20unresolved%20periodontal%20disease.) [[PDF]]() </span>
 
 
 
