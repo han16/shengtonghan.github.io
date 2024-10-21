@@ -33,10 +33,10 @@ J. Pers. Med, </i> 2024, 14, 822. https://doi.org/10.3390/jpm14080822. [[link]](
 <b> 14. </b> Vidyalakshmi Subramanian, Howard W. Roberts, <b> Shengtong Han </b>, Stephanie J. Sidow, David W. Berzins. <b>
 Electrochemical Properties of Nickel-Titanium Rotary Endodontic Instruments, </b> <i>
 Journal of Endodontics, </i> 2024,ISSN 0099-2399,
-https://doi.org/10.1016/j.joen.2024.05.004. [[link]](https://www.sciencedirect.com/science/article/pii/S009923992400284X) </span> 
+https://doi.org/10.1016/j.joen.2024.05.004. [[PDF]](https://han16.github.io/shengtonghan.github.io/files/viya2024.pdf) [[link]](https://www.sciencedirect.com/science/article/pii/S009923992400284X) </span> 
 
 <span style="font-size:1em;">
-<b> 13. </b> Al-Bitar KM, Garcia JM, <b> Han S </b> , Guentsch A. <b> Association between periodontal health status and quality of life: a cross-sectional study. </b> <i> Front Oral Health. </i> 2024 Jan 25;5:1346814. doi: 10.3389/froh.2024.1346814. PMID: 38333564; PMCID: PMC10850382.[[PDF]](https://han16.github.io/shengtonghan.github.io/files/viya2024.pdf) [[link]](https://www.frontiersin.org/articles/10.3389/froh.2024.1346814/abstract) </span> 
+<b> 13. </b> Al-Bitar KM, Garcia JM, <b> Han S </b> , Guentsch A. <b> Association between periodontal health status and quality of life: a cross-sectional study. </b> <i> Front Oral Health. </i> 2024 Jan 25;5:1346814. doi: 10.3389/froh.2024.1346814. PMID: 38333564; PMCID: PMC10850382. [[link]](https://www.frontiersin.org/articles/10.3389/froh.2024.1346814/abstract) </span> 
   
 
 
