@@ -36,17 +36,17 @@ Journal of Endodontics, </i> 2024,ISSN 0099-2399,
 https://doi.org/10.1016/j.joen.2024.05.004. [[link]](https://www.sciencedirect.com/science/article/pii/S009923992400284X) </span> 
 
 <span style="font-size:1em;">
-<b> 13. </b> Al-Bitar KM, Garcia JM, <b> Han S </b> , Guentsch A. <b> Association between periodontal health status and quality of life: a cross-sectional study. </b> <i> Front Oral Health. </i> 2024 Jan 25;5:1346814. doi: 10.3389/froh.2024.1346814. PMID: 38333564; PMCID: PMC10850382. [[link]](https://www.frontiersin.org/articles/10.3389/froh.2024.1346814/abstract) </span> 
+<b> 13. </b> Al-Bitar KM, Garcia JM, <b> Han S </b> , Guentsch A. <b> Association between periodontal health status and quality of life: a cross-sectional study. </b> <i> Front Oral Health. </i> 2024 Jan 25;5:1346814. doi: 10.3389/froh.2024.1346814. PMID: 38333564; PMCID: PMC10850382.[[PDF]](https://han16.github.io/shengtonghan.github.io/files/viya2024.pdf) [[link]](https://www.frontiersin.org/articles/10.3389/froh.2024.1346814/abstract) </span> 
   
 
 
 <span style="font-size:1em;">
 <b> 12. </b>   Zaid Badr, Manal Hamdan, <b> Shengtong Han </b>, 
-Taiseer A Sulaiman. <b> Effect of surface finish and resin cement on the bond strength to CAD/CAM ceramics for interim resin-bonded prostheses </b>. <i> The Journal of Prosthetic Dentistry, </i> 2024, ISSN 0022-3913, https://doi.org/10.1016/j.prosdent.2023.12.006. [[link]](https://www.sciencedirect.com/science/article/pii/S0022391323008235) </span>  
+Taiseer A Sulaiman. <b> Effect of surface finish and resin cement on the bond strength to CAD/CAM ceramics for interim resin-bonded prostheses </b>. <i> The Journal of Prosthetic Dentistry, </i> 2024, ISSN 0022-3913, https://doi.org/10.1016/j.prosdent.2023.12.006. [[PDF]](https://han16.github.io/shengtonghan.github.io/files/Badr2024.pdf)[[link]](https://www.sciencedirect.com/science/article/pii/S0022391323008235) </span>  
 
 <span style="font-size:1em;">
 <b> 11. </b>   Manal Hamdan, Zaid Badr, Jennifer Bjork, Reagan Saxe, Francesca Malensek, Caroline Miller, Rakhi Shah, <b >Shengtong Han </b>, Hossein Mohammad-Rahimi. (2023), <b> Detection of dental restorations using no-code artificial intelligence </b>. <i> Journal of Dentistry </i> . 2023,
-104768, ISSN 0300-5712, https://doi.org/10.1016/j.jdent.2023.104768 [[link]](https://www.sciencedirect.com/science/article/pii/S0300571223003548) </span>
+104768, ISSN 0300-5712, https://doi.org/10.1016/j.jdent.2023.104768 [[PDF]](https://han16.github.io/shengtonghan.github.io/files/Hamdan2023.pdf)[[link]](https://www.sciencedirect.com/science/article/pii/S0300571223003548) </span>
 
 <span style="font-size:1em;">
 <b> 10. </b>   Katherine C. Schacherl, <b> Shengtong
