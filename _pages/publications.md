@@ -16,7 +16,7 @@ author_profile: true
 <span style="font-size:1em;">
 <b> 17.</b>  <b>Shengtong Han\{+*} </b>, Xiaotong Sun\+, Laura Sloofman, F. Kyle Satterstrom, Gao Wang, Lifan Liang, Nicholas Knoblauch, Siming Zhao, Yuwen Liu, Wenhui Shen, Hoang T Nguyen, Xin He\* <b>
   <b>MIRAGE: a Bayesian rare variant association analysis method incorporating functional information of variants </b>
-<i>bioRxiv </i> 2024.10.24.620131; doi: https://doi.org/10.1101/2024.10.24.620131
+<i>bioRxiv </i> 2024.10.24.620131; doi: https://doi.org/10.1101/2024.10.24.620131 [[link]](https://www.biorxiv.org/content/10.1101/2024.10.24.620131v1)
 
 
 
