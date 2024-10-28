@@ -14,6 +14,13 @@ author_profile: true
 
 
 <span style="font-size:1em;">
+<b> 17.</b>  <b>Shengtong Han\{+*} </b>, Xiaotong Sun\+, Laura Sloofman, F. Kyle Satterstrom, Gao Wang, Lifan Liang, Nicholas Knoblauch, Siming Zhao, Yuwen Liu, Wenhui Shen, Hoang T Nguyen, Xin He\* <b>
+  <b>MIRAGE: a Bayesian rare variant association analysis method incorporating functional information of variants </b>
+<i>bioRxiv </i> 2024.10.24.620131; doi: https://doi.org/10.1101/2024.10.24.620131
+
+
+
+<span style="font-size:1em;">
 <b> 16. </b> Gonzalez C, Badr Z, Güngör HC,  <b> Han, S </b>, Hamdan MD.  <b>
 Identifying primary proximal caries lesions in pediatric patients from bitewing radiographs using artificial intelligence. </b> <i>
 Pediatr Dent, </i> 2024:46(5). [[link]](https://www.ingentaconnect.com/contentone/aapd/pd/2024/00000046/00000005/art00008#expand/collapse) </span> 
