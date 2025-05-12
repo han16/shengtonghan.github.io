@@ -13,7 +13,13 @@ author_profile: true
 \+ co-first authors; \* corresponding author </span>
 
 
-Kofina, V., Valencia Rincon, J., Rawal, S.Y. et al. Implant placement-associated tissue swelling: a digital three-dimensional and patient-based assessment. Clin Oral Invest 29, 212 (2025). https://doi.org/10.1007/s00784-025-06284-7
+<span style="font-size:1em;">
+<b> 20.</b> Gousias, C., Alsuwaiyan, Z., Fial, A., <b>Han, S. </b>, Tatakis, D.N. and Kofina, V..  <b>
+  Pre-Emptive Analgesia for Periodontal and Implant-Related Surgery: A Systematic Review and Meta-Analysis.  </b>
+<i>J Clin Periodontol </i> (2025). https://doi.org/10.1111/jcpe.14157. [[link]](https://onlinelibrary.wiley.com/doi/10.1111/jcpe.14157))</span> 
+
+
+
 
 <span style="font-size:1em;">
 <b> 19.</b> Vrisiis Kofina*, Juan Valencia Rincon, Swati Y. Rawal, Andrew R. Dentino, <b>Shengtong Han* </b>, Dimitris N. Tatakis.  <b>
