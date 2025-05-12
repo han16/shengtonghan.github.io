@@ -12,11 +12,22 @@ author_profile: true
 <span style="font-size:1em;"> 
 \+ co-first authors; \* corresponding author </span>
 
+
+Kofina, V., Valencia Rincon, J., Rawal, S.Y. et al. Implant placement-associated tissue swelling: a digital three-dimensional and patient-based assessment. Clin Oral Invest 29, 212 (2025). https://doi.org/10.1007/s00784-025-06284-7
+
+<span style="font-size:1em;">
+<b> 19.</b> Vrisiis Kofina*, Juan Valencia Rincon, Swati Y. Rawal, Andrew R. Dentino, <b>Shengtong Han* </b>, Dimitris N. Tatakis.  <b>
+  Implant placement-associated tissue swelling: a digital three-dimensional and patient-based assessment.  </b>
+<i>Clin Oral Invest  </i> 29, 212 (2025). https://doi.org/10.1007/s00784-025-06284-7. [[link]](https://link.springer.com/article/10.1007/s00784-025-06284-7#citeas)</span> 
+
+
+
+
 <span style="font-size:1em;">
 <b> 18.</b>  <b>Shengtong Han* </b>, Marieke Gilmartin, Wenhui Sheng, Victor X. Jin.  <b>
   Integrating rare variant genetics and brain transcriptome data implicates novel schizophrenia putative risk genes.  </b>
 <i>Schizophrenia Research </i> Volume 276, 2025, Pages 205-213, ISSN 0920-9964,
-https://doi.org/10.1016/j.schres.2025.01.028. [[link]]([https://www.biorxiv.org/content/10.1101/828061v2.abstract](https://www.sciencedirect.com/science/article/pii/S0920996425000362))</span> 
+https://doi.org/10.1016/j.schres.2025.01.028. [[link]](https://www.sciencedirect.com/science/article/pii/S0920996425000362)</span> 
 
 
 
