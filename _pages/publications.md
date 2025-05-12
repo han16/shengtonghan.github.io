@@ -24,7 +24,7 @@ author_profile: true
 <span style="font-size:1em;">
 <b> 19.</b> Vrisiis Kofina*, Juan Valencia Rincon, Swati Y. Rawal, Andrew R. Dentino, <b>Shengtong Han </b>, Dimitris N. Tatakis.  <b>
   Implant placement-associated tissue swelling: a digital three-dimensional and patient-based assessment.  </b>
-<i>Clin Oral Invest  </i> 29, 212 (2025). https://doi.org/10.1007/s00784-025-06284-7. [[link]](https://link.springer.com/article/10.1007/s00784-025-06284-7#citeas)</span> 
+<i>Clin Oral Invest  </i> 29, 212 (2025). https://doi.org/10.1007/s00784-025-06284-7. [[link]](https://link.springer.com/article/10.1007/s00784-025-06284-7)</span> 
 
 
 
