@@ -26,7 +26,7 @@ Kofina, V., Valencia Rincon, J., Rawal, S.Y. et al. Implant placement-associated
 <span style="font-size:1em;">
 <b> 18.</b>  <b>Shengtong Han* </b>, Marieke Gilmartin, Wenhui Sheng, Victor X. Jin.  <b>
   Integrating rare variant genetics and brain transcriptome data implicates novel schizophrenia putative risk genes.  </b>
-<i>Schizophrenia Research </i> Volume 276, 2025, Pages 205-213, ISSN 0920-9964,
+<i>Schizophrenia Research, </i> Volume 276, 2025, Pages 205-213, ISSN 0920-9964,
 https://doi.org/10.1016/j.schres.2025.01.028. [[link]](https://www.sciencedirect.com/science/article/pii/S0920996425000362)</span> 
 
 
