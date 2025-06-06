@@ -38,7 +38,7 @@ https://doi.org/10.1016/j.schres.2025.01.028. [[link]](https://www.sciencedirect
 
 
 <span style="font-size:1em;">
-<b> 17.</b>  <b>Shengtong Han\+* </b>, Xiaotong Sun\+, Laura Sloofman\+, F. Kyle Satterstrom, Gao Wang, Lifan Liang, Nicholas Knoblauch, Siming Zhao, Yuwen Liu, Wenhui Shen, Hoang T Nguyen, Xin He\*.  <b>
+<b> 17.</b>  <b>Shengtong Han\+* </b>, Xiaotong Sun\+, Laura Sloofman\+, F. Kyle Satterstrom, Gao Wang, Lifan Liang, Nicholas Knoblauch, Siming Zhao, Yuwen Liu, Wenhui Sheng, Hoang T Nguyen, Xin He\*.  <b>
   MIRAGE: a Bayesian rare variant association analysis method incorporating functional information of variants. </b>
 <i>bioRxiv </i> 2024.10.24.620131; doi: https://doi.org/10.1101/2024.10.24.620131 [[link]](https://www.biorxiv.org/content/10.1101/828061v2.abstract)[[R package]](https://xinhe-lab.github.io/mirage/)</span> 
 
