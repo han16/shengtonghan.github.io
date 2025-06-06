@@ -22,6 +22,9 @@ author_profile: true
   <img src="https://han16.github.io/shengtonghan.github.io/images/Chris2025_Fig1.png" alt="meta analysis paper" width="300">
 </a>
 
+<p align="center">
+  <img src="https://han16.github.io/shengtonghan.github.io/images/Chris2025_Fig1.png?raw=true" alt="Photo" style="width: 170px;"/> 
+</p>
 
 
 
