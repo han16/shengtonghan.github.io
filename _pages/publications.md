@@ -20,7 +20,7 @@ author_profile: true
 
 
 <div style="text-align: center;">
-<a href="[https://doi.org/10.1089/omi.2011.0118](https://onlinelibrary.wiley.com/doi/10.1111/jcpe.14157)" target="_blank">
+<a href="(https://onlinelibrary.wiley.com/doi/10.1111/jcpe.14157)" target="_blank">
   <img src="https://han16.github.io/shengtonghan.github.io/images/Chirs2025_Fig1.png" alt="meta analysis paper" width="300">
 </a>
 </div>
