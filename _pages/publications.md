@@ -107,6 +107,9 @@ author_profile: true
 
 
 
+
+
+
 <span style="font-size:1em;">
 <b> 16. </b> Gonzalez C, Badr Z, Güngör HC,  <b> Han, S </b>, Hamdan MD.  <b>
 Identifying primary proximal caries lesions in pediatric patients from bitewing radiographs using artificial intelligence. </b> <i>
