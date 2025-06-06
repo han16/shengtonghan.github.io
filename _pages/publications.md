@@ -78,12 +78,32 @@ author_profile: true
 
 
 
-<span style="font-size:1em;">
-<b> 17.</b>  <b>Shengtong Han\+* </b>, Xiaotong Sun\+, Laura Sloofman\+, F. Kyle Satterstrom, Gao Wang, Lifan Liang, Nicholas Knoblauch, Siming Zhao, Yuwen Liu, Wenhui Sheng, Hoang T Nguyen, Xin He\*.  <b>
-  MIRAGE: a Bayesian rare variant association analysis method incorporating functional information of variants. </b>
-<i>bioRxiv </i> 2024.10.24.620131; doi: https://doi.org/10.1101/2024.10.24.620131 [[link]](https://www.biorxiv.org/content/10.1101/828061v2.abstract)[[R package]](https://xinhe-lab.github.io/mirage/)</span> 
 
 
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
+
+  <!-- Left: Paper text -->
+  <div style="flex: 1; font-size: 1em;">
+    <p>
+      <b>17.</b> <b>Shengtong Han<sup>+</sup>*</b>, Xiaotong Sun<sup>+</sup>, Laura Sloofman<sup>+</sup>, F. Kyle Satterstrom, Gao Wang, Lifan Liang,  
+      Nicholas Knoblauch, Siming Zhao, Yuwen Liu, Wenhui Sheng, Hoang T Nguyen, Xin He*.  
+      <b>MIRAGE: a Bayesian rare variant association analysis method incorporating functional information of variants.</b>  
+      <i>bioRxiv</i>, 2024.10.24.620131.  
+      <a href="https://doi.org/10.1101/2024.10.24.620131" target="_blank">https://doi.org/10.1101/2024.10.24.620131</a>  
+      [<a href="https://www.biorxiv.org/content/10.1101/828061v2.abstract" target="_blank">link</a>]  
+      [<a href="https://xinhe-lab.github.io/mirage/" target="_blank">R package</a>]
+    </p>
+  </div>
+
+  <!-- Right: Image -->
+  <div style="flex: 0 0 300px; text-align: center;">
+    <a href="https://doi.org/10.1101/2024.10.24.620131" target="_blank">
+      <img src="https://han16.github.io/shengtonghan.github.io/images/Han2025_MIRAGE.png" 
+           alt="MIRAGE paper figure" width="100%">
+    </a>
+  </div>
+
+</div>
 
 
 
