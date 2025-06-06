@@ -180,11 +180,29 @@ Hongmei Zhang, Xianzheng Huang, <b>Shengtong Han</b>, Faisal I. Rezwan, Wilfried
  
 
  
- <span style="font-size:1em;"> 
- <b> 7. Jump-seq: genome-wide capture and amplification of 5hmC sites </b> <br></span> 
-<span style="font-size:1em;">
-Lulu Hu\+, Yuwen Liu\+, <b>Shengtong Han\+</b>, Lei Yang+, Xiaolong Cui, Yawei Gao, Qing Dai, Xingyu Lu, Xiaochen Kou, Yanhong Zhao, Wenhui Sheng, Shaorong Gao, Xin He and Chuan He. <i>Journal of American Chemical Society</i>, 2019, 141, 22, 8694-8697. [[PDF]](https://han16.github.io/shengtonghan.github.io/files/jumpseq2019.pdf)[[Link]](https://pubs.acs.org/doi/pdf/10.1021/jacs.9b02512) </span> 
+ <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
 
+  <!-- Left: Paper text -->
+  <div style="flex: 1; font-size: 1em;">
+    <p>
+      <b>7. Jump-seq: genome-wide capture and amplification of 5hmC sites</b><br>
+      Lulu Hu<sup>+</sup>, Yuwen Liu<sup>+</sup>, <b>Shengtong Han<sup>+</sup></b>, Lei Yang<sup>+</sup>, Xiaolong Cui, Yawei Gao,  
+      Qing Dai, Xingyu Lu, Xiaochen Kou, Yanhong Zhao, Wenhui Sheng, Shaorong Gao, Xin He, and Chuan He.  
+      <i>Journal of the American Chemical Society</i>, 2019, 141(22), 8694–8697.  
+      [<a href="https://han16.github.io/shengtonghan.github.io/files/jumpseq2019.pdf" target="_blank">PDF</a>]  
+      [<a href="https://pubs.acs.org/doi/pdf/10.1021/jacs.9b02512" target="_blank">Link</a>]
+    </p>
+  </div>
+
+  <!-- Right: Image -->
+  <div style="flex: 0 0 300px; text-align: center;">
+    <a href="https://pubs.acs.org/doi/pdf/10.1021/jacs.9b02512" target="_blank">
+      <img src="https://han16.github.io/shengtonghan.github.io/images/5hmCdistribution.jpg" 
+           alt="Jump-seq 5hmC distribution figure" width="100%">
+    </a>
+  </div>
+
+</div>
 
 
 <span style="font-size:1em;"> 
