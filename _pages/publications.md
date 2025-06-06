@@ -18,7 +18,9 @@ author_profile: true
   Pre-Emptive Analgesia for Periodontal and Implant-Related Surgery: A Systematic Review and Meta-Analysis.  </b>
 <i>J Clin Periodontol </i> (2025). https://doi.org/10.1111/jcpe.14157. [[link]](https://onlinelibrary.wiley.com/doi/10.1111/jcpe.14157) </span> 
 
-
+<a href="https://doi.org/10.1089/omi.2011.0118" target="_blank">
+  <img src="/images/Chris2025_Fig1.png" alt="ClusterProfiler Paper" width="300">
+</a>
 
 
 <span style="font-size:1em;">
