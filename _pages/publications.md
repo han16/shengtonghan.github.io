@@ -118,11 +118,28 @@ Pediatr Dent, </i> 2024:46(5). [[link]](https://www.ingentaconnect.com/contenton
 
 
 
-<span style="font-size:1em;">
-<b> 15. </b>   <b> Han, S\* </b>.  <b>
-Bayesian Rare Variant Analysis Identifies Novel Schizophrenia Putative Risk Genes, </b> <i>
-J. Pers. Med, </i> 2024, 14, 822. https://doi.org/10.3390/jpm14080822. [[link]](https://www.mdpi.com/2075-4426/14/8/822) </span> 
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
 
+  <!-- Left: Paper text -->
+  <div style="flex: 1; font-size: 1em;">
+    <p>
+      <b>15.</b> <b>Han, S*</b>.  
+      <b>Bayesian Rare Variant Analysis Identifies Novel Schizophrenia Putative Risk Genes.</b>  
+      <i>Journal of Personalized Medicine</i>, 2024, 14, 822.  
+      <a href="https://doi.org/10.3390/jpm14080822" target="_blank">https://doi.org/10.3390/jpm14080822</a>  
+      [<a href="https://www.mdpi.com/2075-4426/14/8/822" target="_blank">link</a>]
+    </p>
+  </div>
+
+  <!-- Right: Image -->
+  <div style="flex: 0 0 300px; text-align: center;">
+    <a href="https://www.mdpi.com/2075-4426/14/8/822" target="_blank">
+      <img src="https://han16.github.io/shengtonghan.github.io/images/Han2024_MIRAGE_SCZ.png" 
+           alt="MIRAGE-SCZ paper figure" width="100%">
+    </a>
+  </div>
+
+</div>
 
 
 
