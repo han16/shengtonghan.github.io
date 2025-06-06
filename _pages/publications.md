@@ -49,6 +49,30 @@ author_profile: true
 <i>Clin Oral Invest  </i> 29, 212 (2025). https://doi.org/10.1007/s00784-025-06284-7. [[link]](https://link.springer.com/article/10.1007/s00784-025-06284-7)</span> 
 
 
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
+
+  <!-- Left: Paper text -->
+  <div style="flex: 1; font-size: 1em;">
+    <p>
+      <b>18.</b> <b>Shengtong Han*</b>, Marieke Gilmartin, Wenhui Sheng, Victor X. Jin.  
+      <b>Integrating rare variant genetics and brain transcriptome data implicates novel schizophrenia putative risk genes.</b>  
+      <i>Schizophrenia Research</i>, Volume 276, 2025, Pages 205–213, ISSN 0920-9964.  
+      <a href="https://doi.org/10.1016/j.schres.2025.01.028" target="_blank">https://doi.org/10.1016/j.schres.2025.01.028</a>  
+      [<a href="https://www.sciencedirect.com/science/article/pii/S0920996425000362" target="_blank">link</a>]
+    </p>
+  </div>
+
+  <!-- Right: Image -->
+  <div style="flex: 0 0 300px; text-align: center;">
+    <a href="https://www.sciencedirect.com/science/article/pii/S0920996425000362" target="_blank">
+      <img src="https://han16.github.io/shengtonghan.github.io/images/Han2025_DAWNSCZ.png" 
+           alt="Schizophrenia paper figure" width="100%">
+    </a>
+  </div>
+
+</div>
+
+
 
 
 <span style="font-size:1em;">
