@@ -30,6 +30,32 @@ author_profile: true
 
 
 
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
+  
+  <!-- Left: Paper text -->
+  <div style="flex: 1; font-size: 1em;">
+    <p>
+      <b>20.</b> Gousias, C., Alsuwaiyan, Z., Fial, A., <b>Han, S.</b>, Tatakis, D.N., and Kofina, V.*  
+      <b>Pre-Emptive Analgesia for Periodontal and Implant-Related Surgery: A Systematic Review and Meta-Analysis.</b>  
+      <i>J Clin Periodontol</i> (2025).  
+      <a href="https://doi.org/10.1111/jcpe.14157" target="_blank">https://doi.org/10.1111/jcpe.14157</a>  
+      [<a href="https://onlinelibrary.wiley.com/doi/10.1111/jcpe.14157" target="_blank">link</a>]
+    </p>
+  </div>
+
+  <!-- Right: Image -->
+  <div style="flex: 0 0 300px; text-align: center;">
+    <a href="https://onlinelibrary.wiley.com/doi/10.1111/jcpe.14157" target="_blank">
+      <img src="https://han16.github.io/shengtonghan.github.io/images/Chirs2025_Fig1.png" 
+           alt="Meta-analysis paper figure" width="100%">
+    </a>
+  </div>
+</div>
+
+
+
+
+
 <span style="font-size:1em;">
 <b> 19.</b> Vrisiis Kofina*, Juan Valencia Rincon, Swati Y. Rawal, Andrew R. Dentino, <b>Shengtong Han</b>, Dimitris N. Tatakis.  <b>
   Implant placement-associated tissue swelling: a digital three-dimensional and patient-based assessment.  </b>
