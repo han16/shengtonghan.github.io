@@ -19,7 +19,7 @@ author_profile: true
 <i>J Clin Periodontol </i> (2025). https://doi.org/10.1111/jcpe.14157. [[link]](https://onlinelibrary.wiley.com/doi/10.1111/jcpe.14157) </span> 
 
 <a href="[https://doi.org/10.1089/omi.2011.0118](https://onlinelibrary.wiley.com/doi/10.1111/jcpe.14157)" target="_blank">
-  <img src="https://han16.github.io/shengtonghan.github.io/images/Chris2025_Fig1.png" alt="meta analysis paper" width="300">
+  <img src="https://han16.github.io/shengtonghan.github.io/images/Chirs2025_Fig1.png" alt="meta analysis paper" width="300">
 </a>
 
 <p align="center">
