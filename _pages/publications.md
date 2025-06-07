@@ -197,7 +197,7 @@ Hongmei Zhang, Xianzheng Huang, <b>Shengtong Han</b>, Faisal I. Rezwan, Wilfried
   <!-- Right: Image -->
   <div style="flex: 0 0 300px; text-align: center;">
     <a href="https://pubs.acs.org/doi/pdf/10.1021/jacs.9b02512" target="_blank">
-      <img src="https://han16.github.io/shengtonghan.github.io/images/5hmCdistribution.jpg" 
+      <img src="https://han16.github.io/shengtonghan.github.io/images/bioinformatics.png" 
            alt="Jump-seq 5hmC distribution figure" width="100%">
     </a>
   </div>
