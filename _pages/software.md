@@ -8,6 +8,9 @@ author_profile: true
 
 
 
+### Deep-MOTIFs: an R package for a Deep learning framework for <ins>M</ins>ulti-<int>O</ins>mics in<ins>T</ins>egrat<ins>I</ins>on <ins>F</ins>or auti<ins>S</ins>m
+
+
 
 
 
