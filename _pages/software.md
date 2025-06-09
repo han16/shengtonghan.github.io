@@ -42,6 +42,6 @@ GEARS is a Bayesian approach to reconstruct Gaussian Bayesian network and compar
 
 ### BBN: an R package for <ins>B</ins>ayesian  <ins>B</ins>oolean  <ins>N</ins>etwork inference
 
-BBN is a Bayesian approach for Boolean network reconstruction. [[read more]]https://github.com/han16/BBN
+BBN is a Bayesian approach for Boolean network reconstruction. [[read more]](https://github.com/han16/BBN)
 
 
