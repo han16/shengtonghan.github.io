@@ -33,7 +33,7 @@ author_profile: true
   <!-- Right: Image -->
   <div style="flex: 0 0 300px; text-align: center;">
     <a href="https://onlinelibrary.wiley.com/doi/10.1111/jcpe.14157" target="_blank">
-      <img src="https://han16.github.io/shengtonghan.github.io/images/Chirs2025_Fig1.png" 
+      <img src="https://han16.github.io/shengtonghan.github.io/images/Chris2025_network.png" 
            alt="Meta-analysis paper figure" width="100%">
     </a>
   </div>
