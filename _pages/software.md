@@ -8,9 +8,14 @@ author_profile: true
 
 
 
-### Deep-MOTIFs: an R package for a Deep learning framework for <ins>M</ins>ulti-<int>O</ins>mics in<ins>T</ins>egrat<ins>I</ins>on <ins>F</ins>or auti<ins>S</ins>m
+### Deep-MOTIFs: an R package for a Deep learning framework for <ins>M</ins>ulti-<ins>O</ins>mics in<ins>T</ins>egrat<ins>I</ins>on <ins>F</ins>or auti<ins>S</ins>m
 
-
+<p align="center">
+  <a href="https://xinhe-lab.github.io/mirage/" target="_blank">
+    <img src="https://han16.github.io/shengtonghan.github.io/images/deep-motifs.png?raw=true" 
+         alt="MIRAGE workflow" style="width: 450px;">
+  </a>
+</p>
 
 
 
