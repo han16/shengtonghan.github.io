@@ -42,6 +42,12 @@ GEARS is a Bayesian approach to reconstruct Gaussian Bayesian network and compar
 
 ### BBN: an R package for <ins>B</ins>ayesian  <ins>B</ins>oolean  <ins>N</ins>etwork inference
 
+
+<p align="center">
+  <img src="https://han16.github.io/shengtonghan.github.io/images/BNdiagram.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+</p>
+
+
 BBN is a Bayesian approach for Boolean network reconstruction. [[read more]](https://github.com/han16/BBN)
 
 
