@@ -44,7 +44,7 @@ GEARS is a Bayesian approach to reconstruct Gaussian Bayesian network and compar
 
 
 <p align="center">
-  <img src="https://han16.github.io/shengtonghan.github.io/images/BNdiagram.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://han16.github.io/shengtonghan.github.io/images/BNdiagram.JPG?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
 
