@@ -17,6 +17,9 @@ author_profile: true
   </a>
 </p>
 
+Here is some highlighted text:  
+<span style="background-color: yellow; color: black;">Important Notice</span>
+
 
 
 ### MIRAGE: an R package for <ins>MI</ins>xture model based <ins>R</ins>are variant <ins>A</ins>nalysis on <ins>GE</ins>nes
