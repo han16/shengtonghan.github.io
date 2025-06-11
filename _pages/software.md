@@ -17,8 +17,8 @@ author_profile: true
   </a>
 </p>
 
-Here is some highlighted text:  
-<span style="background-color: yellow; color: black;">Important Notice</span>
+<span style="background-color: yellow; color: black;">Deep-MOTIFs</span> (being developed) is a deep learning framework to integrate multi-omics data for predicting risk genes not only for autism, but also for other traits and diseases as long as multi-omics data are available.   
+
 
 
 This is <span style="color: red;">red</span> and this is <span style="color: green;">green</span>.
