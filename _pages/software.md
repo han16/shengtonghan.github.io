@@ -17,11 +17,8 @@ author_profile: true
   </a>
 </p>
 
-<span style="background-color: yellow; color: black;">Deep-MOTIFs</span> (being developed) is a deep learning framework to integrate multi-omics data for predicting risk genes not only for autism, but also for other traits and diseases as long as multi-omics data are available.   
+<span style="background-color: yellow; color: black;">Deep-MOTIFs</span> (being developed) is a deep learning framework to integrate multi-omics data for predicting risk genes not only for autism, but also for other traits and diseases as long as multi-omics data are available. Basically every gene was characterized with a high dimensional vector,  (tabular data), e.g. with the order of >1,000, consisting of continuous, discrete or whatever format, then Deep-MOTIFs learn the unique features associated with the  <span style="color: red;">known</span> risk genes and then predict  <span style="color: green;">novel</span> risk genes genome-wide. 
 
-
-
-This is <span style="color: red;">red</span> and this is <span style="color: green;">green</span>.
 
 
 ### MIRAGE: an R package for <ins>MI</ins>xture model based <ins>R</ins>are variant <ins>A</ins>nalysis on <ins>GE</ins>nes
