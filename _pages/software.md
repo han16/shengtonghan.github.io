@@ -21,6 +21,8 @@ Here is some highlighted text:
 <span style="background-color: yellow; color: black;">Important Notice</span>
 
 
+This is <span style="color: red;">red</span> and this is <span style="color: green;">green</span>.
+
 
 ### MIRAGE: an R package for <ins>MI</ins>xture model based <ins>R</ins>are variant <ins>A</ins>nalysis on <ins>GE</ins>nes
 
