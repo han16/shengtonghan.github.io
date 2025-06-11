@@ -38,6 +38,17 @@ MIRAGE is a new Bayesian statistical method for rare variant (RV) association te
   <img src="https://han16.github.io/shengtonghan.github.io/images/gears.png?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
+<p align="center">
+  <a href="https://github.com/han16/GEARS" target="_blank">
+    <img src="https://han16.github.io/shengtonghan.github.io/images/gears.png?raw=true" 
+         alt="MIRAGE workflow" style="width: 450px;">
+  </a>
+</p>
+
+
+
+
+
 GEARS is a Bayesian approach to reconstruct Gaussian Bayesian network and compare two networks (identical or differential) with graph ordering unknown. [[read more]](https://github.com/han16/GEARS)
 
 ### BBN: an R package for <ins>B</ins>ayesian  <ins>B</ins>oolean  <ins>N</ins>etwork inference
