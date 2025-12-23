@@ -15,6 +15,33 @@ author_profile: true
 
 
 
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
+
+  <!-- Left: Paper text -->
+  <div style="flex: 1; font-size: 1em;">
+    <p>
+      <b>20.</b> <b>Han S<sup>+</sup>*</b>, Sun X<sup>+</sup>, Sloofman L<sup>+</sup>, Satterstrom FK, Xu X, Liang L, Knoblauch N, Sheng W, Zhao S, Nguyen TH, Wang G; Autism Sequencing Consortium; Buxbaum J, He X*.  
+      <b>MIRAGE: a Bayesian rare variant association analysis method incorporating functional information of variants.</b>  
+      <i>Am J Hum Genet.</i>, 2025 Dec 19:S0002-9297(25)00438-0.  
+      <a href="https://doi.org/10.1101/2024.10.24.620131" target="_blank">https://doi.org/10.1101/2024.10.24.620131</a>  
+      [<a href="https://www.cell.com/ajhg/fulltext/S0002-9297(25)00438-0" target="_blank">link</a>]  
+      [<a href="https://xinhe-lab.github.io/mirage/" target="_blank">R package</a>]
+    </p>
+  </div>
+
+  <!-- Right: Image -->
+  <div style="flex: 0 0 300px; text-align: center;">
+    <a href="https://doi.org/10.1101/2024.10.24.620131" target="_blank">
+      <img src="https://han16.github.io/shengtonghan.github.io/images/Han2025_MIRAGE.png" 
+           alt="MIRAGE paper figure" width="100%">
+    </a>
+  </div>
+
+</div>
+
+
+
+
 
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
@@ -22,7 +49,7 @@ author_profile: true
   <!-- Left: Paper text -->
   <div style="flex: 1; font-size: 1em;">
     <p>
-      <b>20.</b> Gousias, C., Alsuwaiyan, Z., Fial, A., <b>Han, S.</b>, Tatakis, D.N., and Kofina, V.*  
+      <b>19.</b> Gousias, C., Alsuwaiyan, Z., Fial, A., <b>Han, S.</b>, Tatakis, D.N., and Kofina, V.*  
       <b>Pre-Emptive Analgesia for Periodontal and Implant-Related Surgery: A Systematic Review and Meta-Analysis.</b>  
       <i>J Clin Periodontol</i> (2025).  
       <a href="https://doi.org/10.1111/jcpe.14157" target="_blank">https://doi.org/10.1111/jcpe.14157</a>  
@@ -44,7 +71,7 @@ author_profile: true
 
 
 <span style="font-size:1em;">
-<b> 19.</b> Vrisiis Kofina*, Juan Valencia Rincon, Swati Y. Rawal, Andrew R. Dentino, <b>Shengtong Han</b>, Dimitris N. Tatakis.  <b>
+<b> 18.</b> Vrisiis Kofina*, Juan Valencia Rincon, Swati Y. Rawal, Andrew R. Dentino, <b>Shengtong Han</b>, Dimitris N. Tatakis.  <b>
   Implant placement-associated tissue swelling: a digital three-dimensional and patient-based assessment.  </b>
 <i>Clin Oral Invest  </i> 29, 212 (2025). https://doi.org/10.1007/s00784-025-06284-7. [[link]](https://link.springer.com/article/10.1007/s00784-025-06284-7)</span> 
 
@@ -54,7 +81,7 @@ author_profile: true
   <!-- Left: Paper text -->
   <div style="flex: 1; font-size: 1em;">
     <p>
-      <b>18.</b> <b>Shengtong Han*</b>, Marieke Gilmartin, Wenhui Sheng, Victor X. Jin.  
+      <b>17.</b> <b>Shengtong Han*</b>, Marieke Gilmartin, Wenhui Sheng, Victor X. Jin.  
       <b>Integrating rare variant genetics and brain transcriptome data implicates novel schizophrenia putative risk genes.</b>  
       <i>Schizophrenia Research</i>, Volume 276, 2025, Pages 205–213, ISSN 0920-9964.  
       <a href="https://doi.org/10.1016/j.schres.2025.01.028" target="_blank">https://doi.org/10.1016/j.schres.2025.01.028</a>  
@@ -75,35 +102,6 @@ author_profile: true
 
 
 
-
-
-
-
-
-<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
-
-  <!-- Left: Paper text -->
-  <div style="flex: 1; font-size: 1em;">
-    <p>
-      <b>17.</b> <b>Shengtong Han<sup>+</sup>*</b>, Xiaotong Sun<sup>+</sup>, Laura Sloofman<sup>+</sup>, F. Kyle Satterstrom, Gao Wang, Lifan Liang,  
-      Nicholas Knoblauch, Siming Zhao, Yuwen Liu, Wenhui Sheng, Hoang T Nguyen, Xin He*.  
-      <b>MIRAGE: a Bayesian rare variant association analysis method incorporating functional information of variants.</b>  
-      <i>bioRxiv</i>, 2024.10.24.620131.  
-      <a href="https://doi.org/10.1101/2024.10.24.620131" target="_blank">https://doi.org/10.1101/2024.10.24.620131</a>  
-      [<a href="https://www.biorxiv.org/content/10.1101/828061v2.abstract" target="_blank">link</a>]  
-      [<a href="https://xinhe-lab.github.io/mirage/" target="_blank">R package</a>]
-    </p>
-  </div>
-
-  <!-- Right: Image -->
-  <div style="flex: 0 0 300px; text-align: center;">
-    <a href="https://doi.org/10.1101/2024.10.24.620131" target="_blank">
-      <img src="https://han16.github.io/shengtonghan.github.io/images/Han2025_MIRAGE.png" 
-           alt="MIRAGE paper figure" width="100%">
-    </a>
-  </div>
-
-</div>
 
 
 
