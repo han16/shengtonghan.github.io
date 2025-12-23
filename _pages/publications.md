@@ -23,9 +23,9 @@ author_profile: true
       <b>20.</b> <b>Han S<sup>+</sup>*</b>, Sun X<sup>+</sup>, Sloofman L<sup>+</sup>, Satterstrom FK, Xu X, Liang L, Knoblauch N, Sheng W, Zhao S, Nguyen TH, Wang G; Autism Sequencing Consortium; Buxbaum J, He X*.  
       <b>MIRAGE: a Bayesian rare variant association analysis method incorporating functional information of variants.</b>  
       <i>Am J Hum Genet.</i>, 2025 Dec 19:S0002-9297(25)00438-0.  
-      <a href="https://doi.org/10.1101/2024.10.24.620131" target="_blank">https://doi.org/10.1101/2024.10.24.620131</a>  
       [<a href="https://www.cell.com/ajhg/fulltext/S0002-9297(25)00438-0" target="_blank">link</a>]  
       [<a href="https://xinhe-lab.github.io/mirage/" target="_blank">R package</a>]
+      [[PDF]](https://han16.github.io/shengtonghan.github.io/files/mirage2026.pdf)
     </p>
   </div>
 
