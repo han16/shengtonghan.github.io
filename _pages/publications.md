@@ -25,6 +25,7 @@ author_profile: true
       <i>Am J Hum Genet.</i>, 2025 Dec 19:S0002-9297(25)00438-0.  
       [<a href="https://www.cell.com/ajhg/fulltext/S0002-9297(25)00438-0" target="_blank">link</a>]  
       [<a href="https://xinhe-lab.github.io/mirage/" target="_blank">R package</a>]
+       [<a href="https://han16.github.io/shengtonghan.github.io/files/mirage2026.pdf" target="_blank">PDF</a>]
       [[PDF]](https://han16.github.io/shengtonghan.github.io/files/mirage2026.pdf)
     </p>
   </div>
