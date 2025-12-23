@@ -52,7 +52,6 @@ author_profile: true
       <b>19.</b> Gousias, C., Alsuwaiyan, Z., Fial, A., <b>Han, S.</b>, Tatakis, D.N., and Kofina, V.*  
       <b>Pre-Emptive Analgesia for Periodontal and Implant-Related Surgery: A Systematic Review and Meta-Analysis.</b>  
       <i>J Clin Periodontol</i> (2025).  
-      <a href="https://doi.org/10.1111/jcpe.14157" target="_blank">https://doi.org/10.1111/jcpe.14157</a>  
       [<a href="https://onlinelibrary.wiley.com/doi/10.1111/jcpe.14157" target="_blank">link</a>]
     </p>
   </div>
@@ -73,7 +72,7 @@ author_profile: true
 <span style="font-size:1em;">
 <b> 18.</b> Vrisiis Kofina*, Juan Valencia Rincon, Swati Y. Rawal, Andrew R. Dentino, <b>Shengtong Han</b>, Dimitris N. Tatakis.  <b>
   Implant placement-associated tissue swelling: a digital three-dimensional and patient-based assessment.  </b>
-<i>Clin Oral Invest  </i> 29, 212 (2025). https://doi.org/10.1007/s00784-025-06284-7. [[link]](https://link.springer.com/article/10.1007/s00784-025-06284-7)</span> 
+<i>Clin Oral Invest  </i> 29, 212 (2025). [[link]](https://link.springer.com/article/10.1007/s00784-025-06284-7)</span> 
 
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
@@ -83,8 +82,7 @@ author_profile: true
     <p>
       <b>17.</b> <b>Shengtong Han*</b>, Marieke Gilmartin, Wenhui Sheng, Victor X. Jin.  
       <b>Integrating rare variant genetics and brain transcriptome data implicates novel schizophrenia putative risk genes.</b>  
-      <i>Schizophrenia Research</i>, Volume 276, 2025, Pages 205–213, ISSN 0920-9964.  
-      <a href="https://doi.org/10.1016/j.schres.2025.01.028" target="_blank">https://doi.org/10.1016/j.schres.2025.01.028</a>  
+      <i>Schizophrenia Research</i>, Volume 276, 2025, Pages 205–213, ISSN 0920-9964.   
       [<a href="https://www.sciencedirect.com/science/article/pii/S0920996425000362" target="_blank">link</a>]
     </p>
   </div>
