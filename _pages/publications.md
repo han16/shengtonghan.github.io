@@ -84,6 +84,7 @@ author_profile: true
       <b>Integrating rare variant genetics and brain transcriptome data implicates novel schizophrenia putative risk genes.</b>  
       <i>Schizophrenia Research</i>, Volume 276, 2025, Pages 205–213, ISSN 0920-9964.   
       [<a href="https://www.sciencedirect.com/science/article/pii/S0920996425000362" target="_blank">link</a>]
+      [<a href="https://han16.github.io/shengtonghan.github.io/files/DAWN_SCZ_2025.pdf" target="_blank">PDF</a>]
     </p>
   </div>
 
