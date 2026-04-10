@@ -31,7 +31,7 @@ author_profile: true
 
   <!-- Right: Image -->
   <div style="flex: 0 0 300px; text-align: center;">
-    <a href="https://doi.org/10.1101/2024.10.24.620131" target="_blank">
+    <a href="https://www.cell.com/ajhg/fulltext/S0002-9297(25)00438-0" target="_blank">
       <img src="https://han16.github.io/shengtonghan.github.io/images/Han2025_MIRAGE.png" 
            alt="MIRAGE paper figure" width="100%">
     </a>
