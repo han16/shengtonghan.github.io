@@ -26,13 +26,26 @@ Shengtong earned the Ph.D. in Statistics and completed postdoc training in biost
 ### Stephanie Chu. Graduate student (2025-)
 
 
-<img src="https://han16.github.io/shengtonghan.github.io/images/edward.jpg?raw=true" align="left" alt="Edward Liu" style="width: 170px; margin-right: 20px; border-radius: 8px;"/>
+<table>
+  <tr>
+    <td style="width: 20%; padding-right: 20px; vertical-align: top;">
+      <img src="https://han16.github.io/shengtonghan.github.io/images/edward.jpg?raw=true" alt="Edward Liu" style="width: 170px; border-radius: 8px;"/>
+    </td>
+    <td style="vertical-align: top;">
+      <h3><a href="https://han16.github.io/shengtonghan.github.io//people/">Edward Liu</a></h3>
+      <p><strong>Master student (Nov 2022-)</strong></p>
+      <p>Edward is a master student in applied statistics at Marquette. He is interested in developing machine learning algorithms for graphical models and applications.</p>
+    </td>
+  </tr>
+</table>
 
+
+
+
+<img src="https://han16.github.io/shengtonghan.github.io/images/edward.jpg?raw=true" align="left" alt="Edward Liu" style="width: 170px; margin-right: 20px; border-radius: 8px;"/>
 ### [Edward Liu](https://han16.github.io/shengtonghan.github.io//people/) 
 **Master student (Nov 2022-)**
-
 Edward is a master student in applied statistics at Marquette. He is interested in developing machine learning algorithms for graphical models and applications.
-
 <br clear="left"/>
 
 
