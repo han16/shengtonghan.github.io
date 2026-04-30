@@ -11,7 +11,7 @@ author_profile: true
 
 
 <span style="font-size:1.0em;">
-<b>Mar 2026</b> Deep-MOTIFs project was presented in [ENAR 2026](https://han16.github.io/shengtonghan.github.io//news/) in Indianapolis, IN   </span>
+<b>Mar 2026</b> Deep-MOTIFs project was presented in [ENAR 2026](https://www.enar.org/meetings/spring2026/) in Indianapolis, IN   </span>
 
 <span style="font-size:1.0em;">
 <b>Jun 2023</b> Our team, including colleagues from Marquette dental school, Math and Stat department has received [NMDSI mini grant](https://today.marquette.edu/2023/06/marquette-nmdsi-award-seven-mini-grants-to-university-faculty/) to study dental care visits in Southeastern Wisconsin using data science approach.  </span>
