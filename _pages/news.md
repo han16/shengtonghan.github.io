@@ -30,6 +30,10 @@ author_profile: true
 <b>Feb 2025</b> New paper that integrating genetics and transcriptome data implicates SCZ risk genes published in [Schizophrenia Research](https://www.sciencedirect.com/science/article/pii/S0920996425000362).    </span>
 
 
+<span style="font-size:1.0em;">
+<b>Jan 2025</b> Our project, Deep MOTIFs-a deep learning approach for multi-omics integration for autism risk genes discovery, was funded by [NMDSI Paving ROADS Seed Fund](https://today.marquette.edu/2025/01/nmdsi-awards-over-700000-in-research-and-curricula-funding-to-university-experts/).    </span>
+
+
 
 <span style="font-size:1.0em;">
 <b>Jun 2023</b> Our team, including colleagues from Marquette dental school, Math and Stat department has received [NMDSI mini grant](https://today.marquette.edu/2023/06/marquette-nmdsi-award-seven-mini-grants-to-university-faculty/) to study dental care visits in Southeastern Wisconsin using data science approach.  </span>
