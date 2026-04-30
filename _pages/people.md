@@ -19,16 +19,16 @@ Shengtong earned the Ph.D. in Statistics and completed postdoc training in biost
 
 
 
-<p align="center">
-  <img src="https://han16.github.io/shengtonghan.github.io/images/edward.jpg?raw=true" alt="Photo" style="width: 170px;"/> 
-</p>
-
-
 ### Nate Chu. Undergraduate comupter science (2025-)
 
 ### Divya Pandy. Dental Student (2024-)
 
 ### Stephanie Chu. Graduate student (2025-)
+
+
+<p align="center">
+  <img src="https://han16.github.io/shengtonghan.github.io/images/edward.jpg?raw=true" alt="Photo" style="width: 170px;"/> 
+</p>
 
 
 ### [Edward Liu](https://han16.github.io/shengtonghan.github.io//people/) Master student (Nov 2022-)
