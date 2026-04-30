@@ -27,7 +27,7 @@ author_profile: true
 
 
 <span style="font-size:1.0em;">
-<b>Feb 2025</b> New paper that integrating genetics and transcriptome data implicates SCZ risk genes published in [Schizophrenia Research](https://www.sciencedirect.com/science/article/pii/S0920996425000362).    </span>
+<b>Feb 2025</b> New paper that integrates genetics and transcriptome data implicates SCZ risk genes published in [Schizophrenia Research](https://www.sciencedirect.com/science/article/pii/S0920996425000362).    </span>
 
 
 <span style="font-size:1.0em;">
