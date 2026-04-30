@@ -26,18 +26,6 @@ Shengtong earned the Ph.D. in Statistics and completed postdoc training in biost
 ### Stephanie Chu. Graduate student (2025-)
 
 
-<table>
-  <tr>
-    <td style="width: 20%; padding-right: 20px; vertical-align: top;">
-      <img src="https://han16.github.io/shengtonghan.github.io/images/edward.jpg?raw=true" alt="Edward Liu" style="width: 170px; border-radius: 8px;"/>
-    </td>
-    <td style="vertical-align: top;">
-      <h3><a href="https://han16.github.io/shengtonghan.github.io//people/">Edward Liu</a></h3>
-      <p><strong>Master student (Nov 2022-)</strong></p>
-      <p>Edward is a master student in applied statistics at Marquette. He is interested in developing machine learning algorithms for graphical models and applications.</p>
-    </td>
-  </tr>
-</table>
 
 
 
@@ -52,20 +40,15 @@ Edward is a master student in applied statistics at Marquette. He is interested 
 
 
 
-<p align="center">
-  <img src="https://han16.github.io/shengtonghan.github.io/images/sophie.jpeg?raw=true" alt="Photo" style="width: 170px;"/> 
-</p>
 
-
-
-
-
-
+<img src="https://han16.github.io/shengtonghan.github.io/images/sophie.jpeg?raw=true" align="left" alt="Edward Liu" style="width: 170px; margin-right: 20px; border-radius: 8px;"/>
 
 ### [Sophie Fournier](https://han16.github.io/shengtonghan.github.io//people/) Undergraduate student (Oct 2020-Dec 2021)
 
 <span style="font-size:1.0em;">
 Sophie is a 3rd year biological sciences major at UWM. She is interested in bioinformatics and developing novel methods for rare variant (RV) association tests. </span> 
+
+<br clear="left"/>
 
 
 <p align="center">
