@@ -24,6 +24,12 @@ Shengtong earned the Ph.D. in Statistics and completed postdoc training in biost
 </p>
 
 
+### Nate Chu. Undergraduate comupter science (2025-)
+
+### Divya Pandy. Dental Student (2024-)
+
+### Stephanie Chu. Graduate student (2025-)
+
 
 ### [Edward Liu](https://han16.github.io/shengtonghan.github.io//people/) Master student (Nov 2022-)
 
@@ -35,6 +41,11 @@ Edward is a master student in applied statistics at Marquette. He is interested 
 <p align="center">
   <img src="https://han16.github.io/shengtonghan.github.io/images/sophie.jpeg?raw=true" alt="Photo" style="width: 170px;"/> 
 </p>
+
+
+
+
+
 
 
 ### [Sophie Fournier](https://han16.github.io/shengtonghan.github.io//people/) Undergraduate student (Oct 2020-Dec 2021)
