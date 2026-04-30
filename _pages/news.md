@@ -26,6 +26,9 @@ author_profile: true
 <b>Feb 2025</b> Our team win the 1st place in faculty oral presentation at [MUSoD research day](https://today.marquette.edu/2025/02/school-of-dentistry-research-day-winners-2025/).    </span>
 
 
+<span style="font-size:1.0em;">
+<b>Feb 2025</b> New paper that integrating genetics transcriptome data implicates SCZ risk genes published in [Schizophrenia Research](https://www.sciencedirect.com/science/article/pii/S0920996425000362).    </span>
+
 
 
 <span style="font-size:1.0em;">
