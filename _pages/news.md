@@ -22,6 +22,11 @@ author_profile: true
 <b>Jun 2025</b> Deep-MOTIFs method for discovering novel autism risk genes was presented in [WNAR 2025](https://wnarofibs.wildapricot.org/event-5946547).    </span>
 
 
+<span style="font-size:1.0em;">
+<b>Feb 2025</b> Our team win the 1st place in faculty oral presentation at [MUSoD research day](https://today.marquette.edu/2025/02/school-of-dentistry-research-day-winners-2025/).    </span>
+
+
+
 
 <span style="font-size:1.0em;">
 <b>Jun 2023</b> Our team, including colleagues from Marquette dental school, Math and Stat department has received [NMDSI mini grant](https://today.marquette.edu/2023/06/marquette-nmdsi-award-seven-mini-grants-to-university-faculty/) to study dental care visits in Southeastern Wisconsin using data science approach.  </span>
