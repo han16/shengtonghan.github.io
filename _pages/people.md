@@ -7,15 +7,16 @@ author_profile: true
 
 
 
-<p align="center">
-  <img src="https://han16.github.io/shengtonghan.github.io/images/head shot.jpg?raw=true" alt="Photo" style="width: 200px;"/> 
-</p>
+<img src="https://han16.github.io/shengtonghan.github.io/images/head shot.jpg?raw=true" align="left" alt="Edward Liu" style="width: 170px; margin-right: 20px; border-radius: 8px;"/>
+
 
 
 ### [Shengtong Han](https://han16.github.io/shengtonghan.github.io//) Assistant Professor of Biostatistics  
 
 <span style="font-size:1.0em;">
 Shengtong earned the Ph.D. in Statistics and completed postdoc training in biostatistics, statistical genetics and genomics. He is interested in statistical machine learning and data science with applications in dentistry, biostatistics, public health, (epi)genetics and genomics.</span>   
+
+<br clear="left"/>
 
 
 
