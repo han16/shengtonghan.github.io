@@ -5,6 +5,10 @@ permalink: /news/
 author_profile: true
 ---
 
+
+<span style="font-size:1.0em;">
+<b>Apr 2026</b> D1 student,  Divya Pandey wins NMDSI 2026 summer scholar award, congratulations!   </span>
+
 <span style="font-size:1.0em;">
 <b>Jun 2023</b> Our team, including colleagues from Marquette dental school, Math and Stat department has received [NMDSI mini grant](https://today.marquette.edu/2023/06/marquette-nmdsi-award-seven-mini-grants-to-university-faculty/) to study dental care visits in Southeastern Wisconsin using data science approach.  </span>
 
