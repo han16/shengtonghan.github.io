@@ -21,7 +21,7 @@ Shengtong earned the Ph.D. in Statistics and completed postdoc training in biost
 
 ### Nate Chu. Undergraduate comupter science (2025-)
 
-### Divya Pandy. Dental Student (2024-)
+### Divya Pandy. Dental student (2024-)
 
 ### Stephanie Chu. Graduate student (2025-)
 
