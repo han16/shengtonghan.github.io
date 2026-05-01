@@ -18,9 +18,12 @@ Shengtong earned the Ph.D. in Statistics and completed postdoc training in biost
 
 <br clear="left"/>
 
-
+<img src="https://han16.github.io/shengtonghan.github.io/images/Nate.jpg?raw=true" align="left" alt="Edward Liu" style="width: 170px; margin-right: 20px; border-radius: 8px;"/>
 
 ### Nate Chu. Undergraduate computer science (2025-)
+
+<br clear="left"/>
+
 
 
 <img src="https://han16.github.io/shengtonghan.github.io/images/Divya.jpeg?raw=true" align="left" alt="Edward Liu" style="width: 170px; margin-right: 20px; border-radius: 8px;"/>
