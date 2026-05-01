@@ -19,6 +19,12 @@ author_profile: true
 
 
 <span style="font-size:1.0em;">
+<b>Dec 2025</b> Call for Submissions: Integrative Cancer Genomics: Unveiling Novel Biomarkers — Special Issue in Genes (MDPI), with [details](https://www.mdpi.com/journal/genes/special_issues/CYNRSZ7V42).     </span>
+
+
+
+
+<span style="font-size:1.0em;">
 <b>Jun 2025</b> Deep-MOTIFs method for discovering novel autism risk genes was presented in [WNAR 2025](https://wnarofibs.wildapricot.org/event-5946547).    </span>
 
 
