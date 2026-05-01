@@ -18,7 +18,7 @@ We are interested in studying the disease pathology of autism, schizophrenia, ca
 
 
 
-<hr>
+<hr style="height:5px; border-width:0; color:blue; background-color:blue">
 
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
