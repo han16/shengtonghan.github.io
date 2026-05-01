@@ -8,7 +8,7 @@ author_profile: true
 
 <p align="center">
     <img src="https://han16.github.io/shengtonghan.github.io/images/researchtheme.png?raw=true" 
-         alt="Deep-MOTIFs workflow" style="width: 450px;">
+         alt="Deep-MOTIFs workflow" style="width: 900px;">
   </a>
 </p>
 
