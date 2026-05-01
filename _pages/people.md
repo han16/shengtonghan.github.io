@@ -22,7 +22,12 @@ Shengtong earned the Ph.D. in Statistics and completed postdoc training in biost
 
 ### Nate Chu. Undergraduate computer science (2025-)
 
+
+<img src="https://han16.github.io/shengtonghan.github.io/images/Divya.ipeg?raw=true" align="left" alt="Edward Liu" style="width: 170px; margin-right: 20px; border-radius: 8px;"/>
+
 ### Divya Pandy. Dental student (2024-)
+<br clear="left"/>
+
 
 
 <img src="https://han16.github.io/shengtonghan.github.io/images/stephanie.png?raw=true" align="left" alt="Edward Liu" style="width: 170px; margin-right: 20px; border-radius: 8px;"/>
