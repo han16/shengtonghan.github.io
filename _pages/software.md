@@ -51,7 +51,7 @@ author_profile: true
 
 GEARS is a Bayesian approach to reconstruct Gaussian Bayesian network and compare two networks (identical or differential) with graph ordering unknown. [[read more]](https://github.com/han16/GEARS)
 
-### BBN: an R package for <ins>B</ins>ayesian  <ins>B</ins>oolean  <ins>N</ins>etwork inference
+### BBNI: an R package for <ins>B</ins>ayesian  <ins>B</ins>oolean  <ins>N</ins>etwork <ins>I</ins>nference
 
 
 
