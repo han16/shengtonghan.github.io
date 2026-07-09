@@ -13,6 +13,14 @@ author_profile: true
 \+ co-first authors; \* corresponding author </span>
 
 
+<span style="font-size:1em;">
+<b> 21.</b>  Guentsch, A.*, and <b> S. Han. </b> <b>
+  Augmented Reality Improves Accuracy of Dynamic Computer-Assisted Implant Surgery: An In Vitro Analysis.  </b>
+<i>Clin Oral Invest  </i> 37, 7 : 896–904 (2026). [[link]](https://doi.org/10.1111/clr.70134)</span>
+
+
+
+
 
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
