@@ -57,7 +57,7 @@ GEARS is a Bayesian approach to reconstruct Gaussian Bayesian network and compar
 
 
 <p align="center">
-  <a href="https://github.com/han16/BBN" target="_blank">
+  <a href="https://han16.github.io/BBNI/articles/Introduction_to_BBNI.html" target="_blank">
     <img src="https://han16.github.io/shengtonghan.github.io/images/BNdiagram.JPG?raw=true" 
          alt="MIRAGE workflow" style="width: 450px;">
   </a>
