@@ -65,6 +65,6 @@ GEARS is a Bayesian approach to reconstruct Gaussian Bayesian network and compar
 
 
 
-BBN is a Bayesian approach for Boolean network reconstruction. [[read more]](https://han16.github.io/BBNI/articles/Introduction_to_BBNI.html)
+BBNI is a Bayesian approach for Boolean network reconstruction. [[read more]](https://han16.github.io/BBNI/articles/Introduction_to_BBNI.html)
 
 
