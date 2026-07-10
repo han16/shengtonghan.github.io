@@ -7,8 +7,6 @@ author_profile: true
 
 
 
-<span style="font-size:1.0em;">
-<b>2026/06 </b> Shengtong was invited to attend workshops at institute for mathematical and statistical innovation, at Uchicago, with travel support. Many thanks to IMSI.    </span>
 
 <span style="font-size:1.0em;">
 <b>Apr 2026</b> D1 student,  Divya Pandey wins NMDSI 2026 summer scholar award, congratulations!   </span>
