@@ -13,7 +13,7 @@ author_profile: true
 \+ co-first authors; \* corresponding author </span>
 
 <span style="font-size:1em;">
-<b> 22.</b> Liu, Q.; Yang, B.; Li, T.; Garcia, R.; <b> Han, S.* </b>; Jin, V.X*. [Genome-Wide Identification of a Chromatin-Splicing Regulatory Axis Driven by DOT1L in MLL-Rearranged Acute Myeloid Leukemia](https://www.mdpi.com/2073-4425/17/8/857). <i> Genes </i> 2026, 17, 857. https://doi.org/10.3390/genes17080857 </span>
+<b> 22.</b> Liu, Q.<sup>+</sup>; Yang, B.<sup>+</sup>; Li, T.; Garcia, R.; <b> Han, S.* </b>; Jin, V.X*. [Genome-Wide Identification of a Chromatin-Splicing Regulatory Axis Driven by DOT1L in MLL-Rearranged Acute Myeloid Leukemia](https://www.mdpi.com/2073-4425/17/8/857). <i> Genes </i> 2026, 17, 857. https://doi.org/10.3390/genes17080857 </span>
 
 
 
