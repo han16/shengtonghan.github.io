@@ -12,6 +12,19 @@ author_profile: true
 <span style="font-size:1em;"> 
 \+ co-first authors; \* corresponding author </span>
 
+<details style="margin-bottom: 1em;">
+  <summary style="cursor: pointer;">
+    <span style="font-size:1em;">
+      <b> 22.</b> Liu, Q.<sup>+</sup>; Yang, B.<sup>+</sup>; Li, T.; Garcia, R.; <b> Han, S.* </b>; Jin, V.X*. [Genome-Wide Identification of a Chromatin-Splicing Regulatory Axis Driven by DOT1L in MLL-Rearranged Acute Myeloid Leukemia](https://www.mdpi.com/2073-4425/17/8/857). <i> Genes </i> 2026, 17, 857. https://doi.org/10.3390/genes17080857
+    </span>
+  </summary>
+  <div style="margin-top: 8px; padding-left: 20px; font-size: 0.9em; color: #444;">
+    <b>Abstract:</b> Aberrant H3K79 dimethylation (H3K79me2) by DOT1L is a defining feature of MLL-rearranged (MLLr) acute myeloid leukemia (AML), but whether this modification influences alternative splicing is unclear. We examined the relationship between H3K79me2 and exon skipping in primary MLLr AML. A subset of exon skipping (SE) events was enriched at H3K79me2-occupied loci in MLLr samples. EPZ5676 remodeled SE patterns, and many switched events showed concurrent loss of local H3K79me2. Genes harboring these events were enriched for RNA processing, DNA repair, and apoptosis functions. Core spliceosomal and hnRNP proteins were prominent in the DOT1L interactome and were reduced after EPZ5676, and SRSF2 and hnRNPA1 binding motifs were enriched near theNormally. 
+
+    
+
+
+
 <span style="font-size:1em;">
 <b> 22.</b> Liu, Q.<sup>+</sup>; Yang, B.<sup>+</sup>; Li, T.; Garcia, R.; <b> Han, S.* </b>; Jin, V.X*. [Genome-Wide Identification of a Chromatin-Splicing Regulatory Axis Driven by DOT1L in MLL-Rearranged Acute Myeloid Leukemia](https://www.mdpi.com/2073-4425/17/8/857). <i> Genes </i> 2026, 17, 857. https://doi.org/10.3390/genes17080857 </span>
 
