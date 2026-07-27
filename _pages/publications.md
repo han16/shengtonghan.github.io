@@ -60,34 +60,6 @@ author_profile: true
 
   <!-- Left: Paper text -->
   <div style="flex: 1; font-size: 1em;">
-    <p>
-      <b>20.</b> <b>Han S<sup>+</sup>*</b>, Sun X<sup>+</sup>, Sloofman L<sup>+</sup>, Satterstrom FK, Xu X, Liang L, Knoblauch N, Sheng W, Zhao S, Nguyen TH, Wang G; Autism Sequencing Consortium; Buxbaum J, He X*.  
-      <b>MIRAGE: a Bayesian rare variant association analysis method incorporating functional information of variants.</b>  
-      <i>Am J Hum Genet.</i>, Volume 113, Issue 1, 2026, Pages 168-183, ISSN 0002-9297, https://doi.org/10.1016/j.ajhg.2025.11.013.  
-      [<a href="https://www.cell.com/ajhg/fulltext/S0002-9297(25)00438-0" target="_blank">link</a>]  
-      [<a href="https://xinhe-lab.github.io/mirage/" target="_blank">R package</a>]
-       [<a href="https://han16.github.io/shengtonghan.github.io/files/mirage2026.pdf" target="_blank">PDF</a>]
-    </p>
-  </div>
-
-  <!-- Right: Image -->
-  <div style="flex: 0 0 300px; text-align: center;">
-    <a href="https://www.cell.com/ajhg/fulltext/S0002-9297(25)00438-0" target="_blank">
-      <img src="https://han16.github.io/shengtonghan.github.io/images/Han2025_MIRAGE.png" 
-           alt="MIRAGE paper figure" width="100%">
-    </a>
-  </div>
-
-</div>
-
-
-
-
-
-<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
-
-  <!-- Left: Paper text -->
-  <div style="flex: 1; font-size: 1em;">
     <p style="margin-bottom: 6px;">
       <b>20.</b> <b>Han S<sup>+</sup>*</b>, Sun X<sup>+</sup>, Sloofman L<sup>+</sup>, Satterstrom FK, Xu X, Liang L, Knoblauch N, Sheng W, Zhao S, Nguyen TH, Wang G; Autism Sequencing Consortium; Buxbaum J, He X*.  
       <b>MIRAGE: a Bayesian rare variant association analysis method incorporating functional information of variants.</b>  
@@ -103,7 +75,7 @@ author_profile: true
         [ Abstract ]
       </summary>
       <div style="margin-top: 8px; padding: 10px 14px; background-color: #f8f9fa; border-left: 3px solid #007bff; font-size: 0.9em; color: #333333; line-height: 1.5;">
-        <b>Abstract:</b> Rare-variant analysis is commonly used in whole-exome or genome sequencing studies. Compared to common variants, rare variants tend to have larger effect sizes and often directly point out causal genes. These potential benefits make association analysis with rare variants a priority for human genetics researchers. To improve the power of such studies, numerous methods have been developed to aggregate information of all variants of a gene. However, these gene-based methods often make unrealistic assumptions, e.g., the commonly used burden test effectively assumes that all variants chosen in the analysis have the same effects. In practice, current methods are often underpowered. We propose a Bayesian method: mixture-model-based rare-variant analysis on genes (MIRAGE). MIRAGE analyzes summary statistics (i.e., variant counts from inherited variants in trio sequencing or from ancestry-matched case-control studies). MIRAGE captures the heterogeneity of variant effects by treating all variants of a gene as a mixture of risk and non-risk variants and uses external information of variants to model the prior probabilities of being risk variants. We demonstrate, in both simulations and analysis of an exome-sequencing dataset of autism, that MIRAGE significantly outperforms current methods for rare-variant analysis. The top genes identified by MIRAGE are highly enriched with known or plausible autism-risk genes.
+        <b>Summary:</b> Rare-variant analysis is commonly used in whole-exome or genome sequencing studies. Compared to common variants, rare variants tend to have larger effect sizes and often directly point out causal genes. These potential benefits make association analysis with rare variants a priority for human genetics researchers. To improve the power of such studies, numerous methods have been developed to aggregate information of all variants of a gene. However, these gene-based methods often make unrealistic assumptions, e.g., the commonly used burden test effectively assumes that all variants chosen in the analysis have the same effects. In practice, current methods are often underpowered. We propose a Bayesian method: mixture-model-based rare-variant analysis on genes (MIRAGE). MIRAGE analyzes summary statistics (i.e., variant counts from inherited variants in trio sequencing or from ancestry-matched case-control studies). MIRAGE captures the heterogeneity of variant effects by treating all variants of a gene as a mixture of risk and non-risk variants and uses external information of variants to model the prior probabilities of being risk variants. We demonstrate, in both simulations and analysis of an exome-sequencing dataset of autism, that MIRAGE significantly outperforms current methods for rare-variant analysis. The top genes identified by MIRAGE are highly enriched with known or plausible autism-risk genes.
       </div>
     </details>
   </div>
