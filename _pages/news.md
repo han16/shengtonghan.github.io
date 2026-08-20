@@ -9,7 +9,6 @@ author_profile: true
 
 
 <span style="font-size:1.0em;">
-
 <b>Aug 2026</b> Divya and Qishi both were selected as NMDSI 2026 fall scholars.    </span>
 
  <span style="font-size:1.0em;">
