@@ -18,7 +18,7 @@ author_profile: true
   
   <!-- Article Citation -->
   <div style="font-size: 1em;">
-    <b>24.</b> Zhan, Qishi<sup>+</sup>; Cui, Tao<sup>+</sup>; Bansal, Naveen; Singh, Maharaj; Sheng, Wenhui;  <b>Han, Shengtong*</b>; Bhagavatula, Pradeep*. 
+    <b>24.</b> <u> Zhan, Qishi<sup>+</sup> </u>u; <u> Cui, Tao<sup>+</sup> </u>u; Bansal, Naveen; Singh, Maharaj; Sheng, Wenhui;  <b>Han, Shengtong*</b>; Bhagavatula, Pradeep*. 
     <a href="https://onlinelibrary.wiley.com/doi/10.1111/jphd.70082" target="_blank" rel="noopener">Nontraumatic Dental Emergency Department Visits and Follow Up Dental Care Among Wisconsin Medicaid Beneficiaries</a>. 
     <i> Journal of Public Health Dentistry</i> 2026:1-10. 
     <a href="https://doi.org/10.1111/jphd.70082" target="_blank" rel="noopener">https://doi.org/10.1111/jphd.70082</a>
