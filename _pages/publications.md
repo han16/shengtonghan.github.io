@@ -10,7 +10,7 @@ author_profile: true
 
 
 <span style="font-size:1em;"> 
-\+ co-first authors; \* corresponding author </span>; \underline{trainnee}
+\+ co-first authors; \* corresponding author </span>; \underline{trainee}
 
 
 <!-- Article 24 -->
