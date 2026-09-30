@@ -13,6 +13,17 @@ author_profile: true
 \+ co-first authors; \* corresponding author </span>
 
 
+<!---------------------------- Article 23 ----------------------->
+<span style="font-size:1em;">
+<b> 23.</b> Alghamdi EA, Thompson GA, <b> Han S, </b> Toth JM, Berzins DW* <b>. 
+  Edge chipping and translucency comparison among lithium silicate-based ceramics. </b> 
+  <i>J Prosthodont </i>i. 2026; 1–8. [[link]](https://doi.org/10.1111/jopr.70246)</span>
+
+  
+  Augmented Reality Improves Accuracy of Dynamic Computer-Assisted Implant Surgery: An In Vitro Analysis.  </b>
+<i>Clin Oral Invest  </i> 37, 7 : 896–904 (2026). [[link]](https://doi.org/10.1111/clr.70134)</span>
+
+
 
 
 <!-- Article 22 -->
