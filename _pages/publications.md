@@ -15,8 +15,8 @@ author_profile: true
 
 <!---------------------------- Article 23 ----------------------->
 <span style="font-size:1em;">
-<b> 23.</b> Alghamdi EA, Thompson GA, <b> Han S, </b> Toth JM, Berzins DW* <b>. 
-  Edge chipping and translucency comparison among lithium silicate-based ceramics. </b> 
+<b> 23.</b> Alghamdi EA, Thompson GA, <b> Han S, </b> Toth JM, Berzins DW*. 
+  Edge chipping and translucency comparison among lithium silicate-based ceramics. 
   <i>J Prosthodont </i>i. 2026; 1–8. [[link]](https://doi.org/10.1111/jopr.70246)</span>
 
   
