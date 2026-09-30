@@ -20,9 +20,6 @@ author_profile: true
   <i>J Prosthodont </i>i. 2026; 1–8. [[link]](https://doi.org/10.1111/jopr.70246)</span>
 
   
-  Augmented Reality Improves Accuracy of Dynamic Computer-Assisted Implant Surgery: An In Vitro Analysis.  </b>
-<i>Clin Oral Invest  </i> 37, 7 : 896–904 (2026). [[link]](https://doi.org/10.1111/clr.70134)</span>
-
 
 
 
