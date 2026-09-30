@@ -20,6 +20,21 @@ Shengtong earned the Ph.D. in Statistics and completed postdoc training in biost
 
 
 
+<img src="https://han16.github.io/shengtonghan.github.io/images/Qishi.jpg?raw=true" align="left" alt="Qishi" style="width: 170px; margin-right: 20px; border-radius: 8px;"/>
+
+### Qishi Zhan.  (2026-)
+
+<br clear="left"/>
+
+
+<img src="https://han16.github.io/shengtonghan.github.io/images/Anson.jpg?raw=true" align="left" alt="Anson" style="width: 170px; margin-right: 20px; border-radius: 8px;"/>
+
+### Anson Li.  (2026-)
+
+<br clear="left"/>
+
+
+
 <img src="https://han16.github.io/shengtonghan.github.io/images/Nate.jpg?raw=true" align="left" alt="Nate" style="width: 170px; margin-right: 20px; border-radius: 8px;"/>
 
 ### Nate Chu. Undergraduate computer science (2025-)
@@ -46,9 +61,9 @@ Shengtong earned the Ph.D. in Statistics and completed postdoc training in biost
 
 
 
-<img src="https://han16.github.io/shengtonghan.github.io/images/edward.jpg?raw=true" align="left" alt="Edward Liu" style="width: 170px; margin-right: 20px; border-radius: 8px;"/>
 
-### Edward Liu. Master student (Nov 2022-)
+
+### Edward Liu. Master student (Nov 2022-2023)
 Edward is a master student in applied statistics at Marquette. He is interested in developing machine learning algorithms for graphical models and applications.
 
 <br clear="left"/>
@@ -56,7 +71,7 @@ Edward is a master student in applied statistics at Marquette. He is interested 
 
 
 
-<img src="https://han16.github.io/shengtonghan.github.io/images/sophie.jpeg?raw=true" align="left" alt="Edward Liu" style="width: 170px; margin-right: 20px; border-radius: 8px;"/>
+
 
 ### Sophie Fournier.  Undergraduate student (Oct 2020-Dec 2021)
 
@@ -67,7 +82,6 @@ Sophie is a 3rd year biological sciences major at UWM. She is interested in bioi
 
 
 
-<img src="https://han16.github.io/shengtonghan.github.io/images/matthew.jpg?raw=true" align="left" alt="Edward Liu" style="width: 170px; margin-right: 20px; border-radius: 8px;"/>
 
 ### Matthew John Sanville.  Graduate student (Aug 2021-Jan 2022)
 
