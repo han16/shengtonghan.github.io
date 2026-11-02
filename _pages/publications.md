@@ -24,7 +24,9 @@ author_profile: true
     <b>25.</b>  <b>Shengtong Han*</b>, Di Wang, Wenhui Sheng, <u> Nathanael Chu</u>, 
     <a href="https://doi.org/10.1093/bib/bbag588" target="_blank" rel="noopener">Integrating multi-omics data through deep learning with applications to autism risk gene prioritization</a>. 
     <i>Briefings in Bioinformatics</i> 2026,bbag588, 
-    <a href="[https://doi.org/10.3390/genes17080857](https://doi.org/10.1093/bib/bbag588)" target="_blank" rel="noopener">https://doi.org/10.3390/genes17080857 [paper code](https://github.com/shan-team/Deep-MOTIFs)</a>
+    <a href="[https://doi.org/10.3390/genes17080857](https://doi.org/10.1093/bib/bbag588)" target="_blank" rel="noopener">https://doi.org/10.3390/genes17080857</a>
+<a href="(https://github.com/shan-team/Deep-MOTIFs" target="_blank" rel="noopener">[paper code]</a>. 
+    
   </div>
 
 <!-- Below: Image -->
