@@ -27,6 +27,15 @@ author_profile: true
     <a href="[https://doi.org/10.3390/genes17080857](https://doi.org/10.1093/bib/bbag588)" target="_blank" rel="noopener">https://doi.org/10.3390/genes17080857</a>
   </div>
 
+<!-- Below: Image -->
+    <div style="flex: 0 0 300px; text-align: center;">
+      <a href="https://doi.org/10.1093/bib/bbag588" target="_blank">
+        <img src="https://han16.github.io/shengtonghan.github.io/images/Han2026_deepmotifs.png" 
+             alt="Deep-MOTIFs paper figure" width="100%">
+      </a>
+    </div>
+
+
   <!-- Clickable Foldable Abstract -->
   <details style="margin-top: 6px;">
     <summary style="cursor: pointer; color: #007bff; font-weight: bold; font-size: 0.9em; user-select: none;">
