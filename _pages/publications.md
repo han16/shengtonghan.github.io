@@ -70,6 +70,28 @@ author_profile: true
     <a href="https://doi.org/10.1111/jphd.70082" target="_blank" rel="noopener">https://doi.org/10.1111/jphd.70082</a>
   </div>
 
+
+<!-- Clickable Foldable Abstract -->
+  <details style="margin-top: 6px;">
+    <summary style="cursor: pointer; color: #007bff; font-weight: bold; font-size: 0.9em; user-select: none;">
+      [ Abstract ]
+    </summary>
+    <div style="margin-top: 8px; margin-left: 12px; padding: 10px 14px; background-color: #f8f9fa; border-left: 3px solid #007bff; font-size: 0.9em; color: #333333; line-height: 1.5;">
+      <b>Abstract:</b> Objectives
+Emergency department (ED) visits for nontraumatic dental conditions (NTDCs) are a persistent concern for Medicaid beneficiaries. This study examined factors associated with NTDC-related ED utilization and dental follow up among Wisconsin Medicaid beneficiaries.
+
+Methods
+We conducted a retrospective claims-based cohort study using Wisconsin Medicaid claims from January 1, 2014, through December 31, 2019. The ED cohort (n = 553,669) outcome was at least one NTDC-related ED visit. The follow up cohort (n = 21,386 with an index NTDC-related ED visit) outcome was at least one nonemergency dental visit within 6 months. Multivariable logistic regression estimated adjusted associations. Supplementary analyses used a logistic prediction model and LightGBM under a balanced modeling framework.
+
+Results
+Adults had the highest NTDC-related ED visit rate (6.0%), exceeding children (1.5%) and older adults (1.5%). Rates were higher among White (4.4%) and Black (4.1%) beneficiaries than among Hispanic beneficiaries (2.7%). Only 8.8% of beneficiaries with an NTDC-related ED visit received dental follow up within 6 months. After adjustment, HMO enrollment, adult age group, and residence in non-Milwaukee urban or rural areas were associated with higher odds of NTDC-related ED visits. For follow up, the highest area level income quartile had greater odds of subsequent nonemergency dental care.
+
+Conclusions
+NTDC-related ED utilization and post ED dental follow up were associated with demographic, socioeconomic, geographic, and insurance related factors. The low follow up rate suggests a substantial gap between emergency care and subsequent nonemergency dental care, supporting care coordination, Medicaid dental access, and regional strategies for connecting ED patients to dental providers.
+    </div>
+  </details>
+  
+
 </div>
 
 
