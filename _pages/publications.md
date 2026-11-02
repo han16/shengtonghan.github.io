@@ -13,6 +13,43 @@ author_profile: true
 \+ co-first authors; \* corresponding author </span>; <u>trainee</u>
 
 
+
+
+
+<!-- Article 25 -->
+<div style="margin-bottom: 1.5em; font-family: sans-serif; line-height: 1.5;">
+  
+  <!-- Article Citation -->
+  <div style="font-size: 1em;">
+    <b>25.</b>  <b>Shengtong Han*</b>, Di Wang, Wenhui Sheng, <u> Nathanael Chu</u>, Integrating multi-omics data through deep learning with applications to autism risk gene prioritization, Briefings in Bioinformatics, Volume 27, Issue 5, September 2026, bbag588, https://doi.org/10.1093/bib/bbag588
+    <a href="https://doi.org/10.1093/bib/bbag588" target="_blank" rel="noopener">Integrating multi-omics data through deep learning with applications to autism risk gene prioritization</a>. 
+    <i>Briefings in Bioinformatics</i> 2026,bbag588, 
+    <a href="[https://doi.org/10.3390/genes17080857](https://doi.org/10.1093/bib/bbag588)" target="_blank" rel="noopener">[https://doi.org/10.3390/genes17080857](https://doi.org/10.1093/bib/bbag588)</a>
+  </div>
+
+  <!-- Clickable Foldable Abstract -->
+  <details style="margin-top: 6px;">
+    <summary style="cursor: pointer; color: #007bff; font-weight: bold; font-size: 0.9em; user-select: none;">
+      [ Abstract ]
+    </summary>
+    <div style="margin-top: 8px; margin-left: 12px; padding: 10px 14px; background-color: #f8f9fa; border-left: 3px solid #007bff; font-size: 0.9em; color: #333333; line-height: 1.5;">
+      <b>Abstract:</b> Autism spectrum disorder (ASD) is a highly heritable neurodevelopmental disorder. Advances in genetic research, particularly whole-exome sequencing studies, have identified an increasing number of ASD risk genes, especially through large-effect rare variant analyses. However, current rare-variant studies still have limited power to recover the full spectrum of ASD risk genes, leaving a substantial gap between known genes and the estimated genetic architecture of ASD. To address this challenge, we developed Deep-MOTIFs (Multi-Omics inTegratIon For autiSm), a Bayesian-guided positive-unlabeled deep learning framework for multi-omics integration that combines genetic, transcriptomic, and protein-interaction evidence for genome-wide ASD risk-gene prioritization. Deep-MOTIFs achieved stronger performance than existing methods across held-out ASD gene prediction, top-ranked prioritization, positive-label efficiency, and label-noise robustness analyses. Functional enrichment and genome-wide decile analyses further supported the biological relevance of the top-ranked candidates, showing convergence on ASD-related phenotypic annotations and synaptic, neurodevelopmental, and chromatin-regulatory mechanisms. Together, these results support Deep-MOTIFs as a robust framework for ASD risk-gene prioritization under incomplete supervision. Source code is available at: https://github.com/shan-team/Deep-MOTIFs.
+    </div>
+  </details>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- Article 24 -->
 <div style="margin-bottom: 1.5em; font-family: sans-serif; line-height: 1.5;">
   
