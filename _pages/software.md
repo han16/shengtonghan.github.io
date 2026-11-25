@@ -35,7 +35,7 @@ author_profile: true
 
 [MIRAGE_v2](https://github.com/shan-team/mirageV2) is an updated version of MIRAGE that optimized the algorithm that run much faster. 
 
-**reference paper** Han S, Sun X, Sloofman L ...
+**reference paper**: Han S, Sun X, Sloofman L ...
 MIRAGE: A Bayesian statistical method for gene-level rare-variant analysis incorporating functional annotations
 The American Journal of Human Genetics, 2025; 113, 168-183. 
 
