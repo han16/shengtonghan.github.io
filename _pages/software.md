@@ -8,7 +8,7 @@ author_profile: true
 
 
 
-### Deep-MOTIFs: an R package for a Deep learning framework for <ins>M</ins>ulti-<ins>O</ins>mics in<ins>T</ins>egrat<ins>I</ins>on <ins>F</ins>or auti<ins>S</ins>m
+### 4. Deep-MOTIFs: an R package for a Deep learning framework for <ins>M</ins>ulti-<ins>O</ins>mics in<ins>T</ins>egrat<ins>I</ins>on <ins>F</ins>or auti<ins>S</ins>m
 
 <p align="center">
   <a href="https://github.com/han16/Deep-MOTIFs" target="_blank">
@@ -21,7 +21,7 @@ author_profile: true
 
 
 
-### MIRAGE: an R package for <ins>MI</ins>xture model based <ins>R</ins>are variant <ins>A</ins>nalysis on <ins>GE</ins>nes
+### 3. MIRAGE: an R package for <ins>MI</ins>xture model based <ins>R</ins>are variant <ins>A</ins>nalysis on <ins>GE</ins>nes
 
 <p align="center">
   <a href="https://xinhe-lab.github.io/mirage/" target="_blank">
@@ -34,7 +34,7 @@ author_profile: true
 
 
 
-### GEARS: an R package for  <ins>G</ins>aussian differ<ins>E</ins>nti<ins>A</ins>l netwo<ins>R</ins>k analysi<ins>S</ins>
+### 2. GEARS: an R package for  <ins>G</ins>aussian differ<ins>E</ins>nti<ins>A</ins>l netwo<ins>R</ins>k analysi<ins>S</ins>
 
 
 
@@ -67,7 +67,7 @@ GEARS is a Bayesian approach to reconstruct Gaussian Bayesian network and compar
 
 BBNI is a Bayesian approach for Boolean network reconstruction. [[read more]](https://shan-team.github.io/BBNI/)
 
-Reference paper: Han S, Wong RKW, Lee TCM, Shen L, Li S-YR, Fan X (2014). A Full
+*Reference paper*: Han S, Wong RKW, Lee TCM, Shen L, Li S-YR, Fan X (2014). A Full
   Bayesian Approach for Boolean Genetic Network Inference. PLoS ONE
   9(12): e115806. doi:10.1371/journal.pone.0115806
 
