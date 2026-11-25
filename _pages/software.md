@@ -65,7 +65,7 @@ GEARS is a Bayesian approach to reconstruct Gaussian Bayesian network and compar
 
 
 
-BBNI is a Bayesian approach for Boolean network reconstruction. [[read more]](https://shan-team.github.io/BBNI/)
+BBNI is a Bayesian approach for Boolean network reconstruction. It employs MCMC to sample the posterior distribution of both the network topology and transition functions, thus take into account of the random noise and model uncertainty. [[read more]](https://shan-team.github.io/BBNI/)
 
 *Reference paper*: Han S, Wong RKW, Lee TCM, Shen L, Li S-YR, Fan X (2014). A Full
   Bayesian Approach for Boolean Genetic Network Inference. PLoS ONE
