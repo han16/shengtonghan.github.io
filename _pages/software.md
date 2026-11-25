@@ -17,7 +17,7 @@ author_profile: true
   </a>
 </p>
 
-<span style="background-color: yellow; color: black;">Deep-MOTIFs</span>  is a deep learning framework to integrate multi-omics data for predicting risk genes not only for autism, but also for other traits and diseases as long as multi-omics data are available. Basically every gene was characterized with a high dimensional vector,  (tabular data), e.g. with the order of >1,000, consisting of continuous, discrete or whatever format, then Deep-MOTIFs learns the unique features associated with the  <span style="color: red;">known</span> risk genes and then predicts  <span style="color: green;">novel</span> risk genes genome-wide. 
+<span style="background-color: yellow; color: black;">Deep-MOTIFs</span> is a deep learning framework to integrate multi-omics data for predicting risk genes not only for autism, but also for other traits and diseases as long as multi-omics data are available. It is a Bayesian-guided positive-unlabeled deep learning framework for multi-omics integration that combines genetic, transcriptomic, and protein-interaction evidence for genome-wide ASD risk-gene prioritization. 
 
 
 **Reference paper**: Shengtong Han, Di Wang, Wenhui Sheng, Nathanael Chu, Integrating multi-omics data through deep learning with applications to autism risk gene prioritization, Briefings in Bioinformatics, Volume 27, Issue 5, September 2026, bbag588, https://doi.org/10.1093/bib/bbag588. 
