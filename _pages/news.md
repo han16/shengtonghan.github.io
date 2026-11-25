@@ -10,12 +10,14 @@ author_profile: true
 
 <span style="font-size:1.0em;">
 
-<b>Oct 2026</b> The Deep-MOTIFs paper was published in [BIB](https://academic.oup.com/bib/article/27/5/bbag588/9002278?utm_source=authortollfreelink&utm_campaign=bib&utm_medium=email).
+<b>Oct 2026</b> The Deep-MOTIFs paper was published in [BIB](https://academic.oup.com/bib/article/27/5/bbag588/9002278?utm_source=authortollfreelink&utm_campaign=bib&utm_medium=email). </span>
 
-
+<span style="font-size:1.0em;">
 <b>Oct 2026</b> Congrats to Divya on being selected as the MUSoD SCADA competitor for the AADOCR meeting.    </span>
 
- 
+
+
+ <span style="font-size:1.0em;">
 <b>Aug 2026</b> Divya and Qishi both were selected as NMDSI 2026 fall scholars.    </span>
 
  <span style="font-size:1.0em;">
