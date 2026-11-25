@@ -33,6 +33,15 @@ author_profile: true
 <span style="background-color: yellow; color: black;"> MIRAGE </span> is a new Bayesian statistical method for rare variant (RV) association testing that better accounts for heterogeneity of variant effects within a gene using external functional annotations. It partitions variants into disjoint groups and variants with similar effect size are assigned into one group. MIRAGE estimates the effet size of every group and calculates the likelihood of a gene that is a risk gene by Bayes factor. Summary statistics, i.e. total number of variants in cases and controls, rather than individual level variant information  at every single genomic locus are required as input. The samples need to be matched between cases and controls.   [[read more]](https://xinhe-lab.github.io/mirage/index.html). 
 
 
+[MIRAGE_v2](https://github.com/shan-team/mirageV2) is an updated version of MIRAGE that optimized the algorithm that run much faster. 
+
+*reference paper* Han S, Sun X, Sloofman L ...
+MIRAGE: A Bayesian statistical method for gene-level rare-variant analysis incorporating functional annotations
+The American Journal of Human Genetics, 2025; 113, 168-183. 
+
+
+
+
 
 ### 2. GEARS: an R package for  <ins>G</ins>aussian differ<ins>E</ins>nti<ins>A</ins>l netwo<ins>R</ins>k analysi<ins>S</ins>
 
