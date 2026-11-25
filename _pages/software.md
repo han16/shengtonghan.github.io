@@ -12,7 +12,7 @@ author_profile: true
 
 <p align="center">
   <a href="https://github.com/han16/Deep-MOTIFs" target="_blank">
-    <img src="https://han16.github.io/shengtonghan.github.io/images/deep-motifs.png?raw=true" 
+    <img src="https://han16.github.io/shengtonghan.github.io/images/Han2026_deepmotifs.png?raw=true" 
          alt="Deep-MOTIFs workflow" style="width: 450px;">
   </a>
 </p>
